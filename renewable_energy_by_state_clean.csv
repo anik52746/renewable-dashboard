@@ -1,0 +1,2059 @@
+state,financial_year,fuel_type,section,generation_gwh
+AUS,1989-90,Black coal,non-renewable,87573
+AUS,1990-91,Black coal,non-renewable,89511
+AUS,1991-92,Black coal,non-renewable,94325.1
+AUS,1992-93,Black coal,non-renewable,97872.7
+AUS,1993-94,Black coal,non-renewable,100544.1
+AUS,1994-95,Black coal,non-renewable,102522.1
+AUS,1995-96,Black coal,non-renewable,106089.6
+AUS,1996-97,Black coal,non-renewable,109452.2
+AUS,1997-98,Black coal,non-renewable,116969.5
+AUS,1998-99,Black coal,non-renewable,118586.3
+AUS,1999-00,Black coal,non-renewable,123833.5
+AUS,2000-01,Black coal,non-renewable,134264
+AUS,2001-02,Black coal,non-renewable,116774.7
+AUS,2002-03,Black coal,non-renewable,115296.6
+AUS,2003-04,Black coal,non-renewable,121182.3
+AUS,2004-05,Black coal,non-renewable,127788.5
+AUS,2005-06,Black coal,non-renewable,130231.6
+AUS,2006-07,Black coal,non-renewable,132368.5
+AUS,2007-08,Black coal,non-renewable,129569.3
+AUS,2008-09,Black coal,non-renewable,127270.5
+AUS,2009-10,Black coal,non-renewable,123724.5
+AUS,2010-11,Black coal,non-renewable,116948.8
+AUS,2011-12,Black coal,non-renewable,116654.3
+AUS,2012-13,Black coal,non-renewable,111491.1
+AUS,2013-14,Black coal,non-renewable,106965.495
+AUS,2014-15,Black coal,non-renewable,107639.4
+AUS,2015-16,Black coal,non-renewable,114263.032
+AUS,2016-17,Black coal,non-renewable,118235.959
+AUS,2017-18,Black coal,non-renewable,121689.29
+AUS,2018-19,Black coal,non-renewable,119809.515
+AUS,2019-20,Black coal,non-renewable,111860.822
+AUS,2020-21,Black coal,non-renewable,106251.414
+AUS,2021-22,Black coal,non-renewable,101076.158
+AUS,2022-23,Black coal,non-renewable,96173.858
+AUS,2023-24,Black coal,non-renewable,96405.277
+AUS,1989-90,Brown coal,non-renewable,33594
+AUS,1990-91,Brown coal,non-renewable,36048
+AUS,1991-92,Brown coal,non-renewable,34559
+AUS,1992-93,Brown coal,non-renewable,33248
+AUS,1993-94,Brown coal,non-renewable,34890
+AUS,1994-95,Brown coal,non-renewable,35832
+AUS,1995-96,Brown coal,non-renewable,39427
+AUS,1996-97,Brown coal,non-renewable,41893
+AUS,1997-98,Brown coal,non-renewable,46633
+AUS,1998-99,Brown coal,non-renewable,49703
+AUS,1999-00,Brown coal,non-renewable,50200
+AUS,2000-01,Brown coal,non-renewable,52223
+AUS,2001-02,Brown coal,non-renewable,56493
+AUS,2002-03,Brown coal,non-renewable,55160.3
+AUS,2003-04,Brown coal,non-renewable,55572.8
+AUS,2004-05,Brown coal,non-renewable,53377.8
+AUS,2005-06,Brown coal,non-renewable,54552.8
+AUS,2006-07,Brown coal,non-renewable,54375.8
+AUS,2007-08,Brown coal,non-renewable,54658.7
+AUS,2008-09,Brown coal,non-renewable,56981.4
+AUS,2009-10,Brown coal,non-renewable,56068.3
+AUS,2010-11,Brown coal,non-renewable,55298.1
+AUS,2011-12,Brown coal,non-renewable,55067.7
+AUS,2012-13,Brown coal,non-renewable,47555.1
+AUS,2013-14,Brown coal,non-renewable,46076.2
+AUS,2014-15,Brown coal,non-renewable,50970.4
+AUS,2015-16,Brown coal,non-renewable,48827.807
+AUS,2016-17,Brown coal,non-renewable,43594.098
+AUS,2017-18,Brown coal,non-renewable,36021.427
+AUS,2018-19,Brown coal,non-renewable,34495.245
+AUS,2019-20,Brown coal,non-renewable,33661.55
+AUS,2020-21,Brown coal,non-renewable,34060.028
+AUS,2021-22,Brown coal,non-renewable,32515.636
+AUS,2022-23,Brown coal,non-renewable,31459.126
+AUS,2023-24,Brown coal,non-renewable,32137.08
+AUS,1989-90,Natural gas,non-renewable,14359
+AUS,1990-91,Natural gas,non-renewable,10772
+AUS,1991-92,Natural gas,non-renewable,11633
+AUS,1992-93,Natural gas,non-renewable,12295
+AUS,1993-94,Natural gas,non-renewable,12199
+AUS,1994-95,Natural gas,non-renewable,14913
+AUS,1995-96,Natural gas,non-renewable,12445
+AUS,1996-97,Natural gas,non-renewable,11426
+AUS,1997-98,Natural gas,non-renewable,12934
+AUS,1998-99,Natural gas,non-renewable,16001
+AUS,1999-00,Natural gas,non-renewable,16245
+AUS,2000-01,Natural gas,non-renewable,17271
+AUS,2001-02,Natural gas,non-renewable,31730
+AUS,2002-03,Natural gas,non-renewable,29375.3
+AUS,2003-04,Natural gas,non-renewable,30919.4
+AUS,2004-05,Natural gas,non-renewable,23802.9
+AUS,2005-06,Natural gas,non-renewable,22725.9
+AUS,2006-07,Natural gas,non-renewable,31849.9
+AUS,2007-08,Natural gas,non-renewable,34955.8
+AUS,2008-09,Natural gas,non-renewable,37660.4
+AUS,2009-10,Natural gas,non-renewable,44587.8
+AUS,2010-11,Natural gas,non-renewable,48996.7
+AUS,2011-12,Natural gas,non-renewable,48571.5
+AUS,2012-13,Natural gas,non-renewable,51053.4
+AUS,2013-14,Natural gas,non-renewable,54393.9
+AUS,2014-15,Natural gas,non-renewable,52916.912
+AUS,2015-16,Natural gas,non-renewable,50536.079
+AUS,2016-17,Natural gas,non-renewable,50459.745
+AUS,2017-18,Natural gas,non-renewable,53881.669
+AUS,2018-19,Natural gas,non-renewable,52775.399
+AUS,2019-20,Natural gas,non-renewable,55216.284
+AUS,2020-21,Natural gas,non-renewable,49782.93
+AUS,2021-22,Natural gas,non-renewable,49280.225
+AUS,2022-23,Natural gas,non-renewable,48865.237
+AUS,2023-24,Natural gas,non-renewable,48489.114
+AUS,1989-90,Oil products,non-renewable,3552
+AUS,1990-91,Oil products,non-renewable,3396
+AUS,1991-92,Oil products,non-renewable,2362
+AUS,1992-93,Oil products,non-renewable,2421
+AUS,1993-94,Oil products,non-renewable,2320
+AUS,1994-95,Oil products,non-renewable,2738
+AUS,1995-96,Oil products,non-renewable,2805
+AUS,1996-97,Oil products,non-renewable,2175
+AUS,1997-98,Oil products,non-renewable,1821
+AUS,1998-99,Oil products,non-renewable,1729
+AUS,1999-00,Oil products,non-renewable,1784
+AUS,2000-01,Oil products,non-renewable,2044
+AUS,2001-02,Oil products,non-renewable,2446
+AUS,2002-03,Oil products,non-renewable,1661
+AUS,2003-04,Oil products,non-renewable,1388.7
+AUS,2004-05,Oil products,non-renewable,2841
+AUS,2005-06,Oil products,non-renewable,3058
+AUS,2006-07,Oil products,non-renewable,2893
+AUS,2007-08,Oil products,non-renewable,4058
+AUS,2008-09,Oil products,non-renewable,3387.9
+AUS,2009-10,Oil products,non-renewable,3106.8
+AUS,2010-11,Oil products,non-renewable,3093.8
+AUS,2011-12,Oil products,non-renewable,2702.5
+AUS,2012-13,Oil products,non-renewable,4464.3
+AUS,2013-14,Oil products,non-renewable,5012.3
+AUS,2014-15,Oil products,non-renewable,6828.45
+AUS,2015-16,Oil products,non-renewable,5655.616
+AUS,2016-17,Oil products,non-renewable,5272.59
+AUS,2017-18,Oil products,non-renewable,4820.876
+AUS,2018-19,Oil products,non-renewable,4922.945
+AUS,2019-20,Oil products,non-renewable,4509.201
+AUS,2020-21,Oil products,non-renewable,4661.89
+AUS,2021-22,Oil products,non-renewable,4664.001
+AUS,2022-23,Oil products,non-renewable,4864.397
+AUS,2023-24,Oil products,non-renewable,4822.944
+AUS,1989-90,Other,non-renewable,0
+AUS,1990-91,Other,non-renewable,0
+AUS,1991-92,Other,non-renewable,0
+AUS,1992-93,Other,non-renewable,0
+AUS,1993-94,Other,non-renewable,0
+AUS,1994-95,Other,non-renewable,0
+AUS,1995-96,Other,non-renewable,0
+AUS,1996-97,Other,non-renewable,0
+AUS,1997-98,Other,non-renewable,0
+AUS,1998-99,Other,non-renewable,0
+AUS,1999-00,Other,non-renewable,0
+AUS,2000-01,Other,non-renewable,0
+AUS,2001-02,Other,non-renewable,0
+AUS,2002-03,Other,non-renewable,1792.2
+AUS,2003-04,Other,non-renewable,1817
+AUS,2004-05,Other,non-renewable,434
+AUS,2005-06,Other,non-renewable,517
+AUS,2006-07,Other,non-renewable,479
+AUS,2007-08,Other,non-renewable,106
+AUS,2008-09,Other,non-renewable,0
+AUS,2009-10,Other,non-renewable,0
+AUS,2010-11,Other,non-renewable,0
+AUS,2011-12,Other,non-renewable,0
+AUS,2012-13,Other,non-renewable,0
+AUS,2013-14,Other,non-renewable,0
+AUS,2014-15,Other,non-renewable,0
+AUS,2015-16,Other,non-renewable,0
+AUS,2016-17,Other,non-renewable,0
+AUS,2017-18,Other,non-renewable,0
+AUS,2018-19,Other,non-renewable,0
+AUS,2019-20,Other,non-renewable,0
+AUS,2020-21,Other,non-renewable,0
+AUS,2021-22,Other,non-renewable,0
+AUS,2022-23,Other,non-renewable,0
+AUS,2023-24,Other,non-renewable,0
+AUS,1989-90,total non-renewable,total,139078
+AUS,1990-91,total non-renewable,total,139727
+AUS,1991-92,total non-renewable,total,142879.1
+AUS,1992-93,total non-renewable,total,145836.7
+AUS,1993-94,total non-renewable,total,149953.1
+AUS,1994-95,total non-renewable,total,156005.1
+AUS,1995-96,total non-renewable,total,160766.6
+AUS,1996-97,total non-renewable,total,164946.2
+AUS,1997-98,total non-renewable,total,178357.5
+AUS,1998-99,total non-renewable,total,186019.3
+AUS,1999-00,total non-renewable,total,192062.5
+AUS,2000-01,total non-renewable,total,205802
+AUS,2001-02,total non-renewable,total,207443.7
+AUS,2002-03,total non-renewable,total,203285.4
+AUS,2003-04,total non-renewable,total,210880.2
+AUS,2004-05,total non-renewable,total,208244.2
+AUS,2005-06,total non-renewable,total,211085.3
+AUS,2006-07,total non-renewable,total,221966.2
+AUS,2007-08,total non-renewable,total,223347.8
+AUS,2008-09,total non-renewable,total,225300.2
+AUS,2009-10,total non-renewable,total,227487.4
+AUS,2010-11,total non-renewable,total,224337.4
+AUS,2011-12,total non-renewable,total,222996
+AUS,2012-13,total non-renewable,total,214563.9
+AUS,2013-14,total non-renewable,total,212447.895
+AUS,2014-15,total non-renewable,total,218355.162
+AUS,2015-16,total non-renewable,total,219282.534
+AUS,2016-17,total non-renewable,total,217562.392
+AUS,2017-18,total non-renewable,total,216413.262
+AUS,2018-19,total non-renewable,total,212003.104
+AUS,2019-20,total non-renewable,total,205247.857
+AUS,2020-21,total non-renewable,total,194756.262
+AUS,2021-22,total non-renewable,total,187536.02
+AUS,2022-23,total non-renewable,total,181362.618
+AUS,2023-24,total non-renewable,total,181854.414
+AUS,1989-90,"Bagasse, wood",renewable,750
+AUS,1990-91,"Bagasse, wood",renewable,769
+AUS,1991-92,"Bagasse, wood",renewable,670
+AUS,1992-93,"Bagasse, wood",renewable,670
+AUS,1993-94,"Bagasse, wood",renewable,670
+AUS,1994-95,"Bagasse, wood",renewable,670
+AUS,1995-96,"Bagasse, wood",renewable,670
+AUS,1996-97,"Bagasse, wood",renewable,670
+AUS,1997-98,"Bagasse, wood",renewable,670
+AUS,1998-99,"Bagasse, wood",renewable,674
+AUS,1999-00,"Bagasse, wood",renewable,685
+AUS,2000-01,"Bagasse, wood",renewable,633
+AUS,2001-02,"Bagasse, wood",renewable,669
+AUS,2002-03,"Bagasse, wood",renewable,826.6
+AUS,2003-04,"Bagasse, wood",renewable,1058.2
+AUS,2004-05,"Bagasse, wood",renewable,3237
+AUS,2005-06,"Bagasse, wood",renewable,3268
+AUS,2006-07,"Bagasse, wood",renewable,3316
+AUS,2007-08,"Bagasse, wood",renewable,3737
+AUS,2008-09,"Bagasse, wood",renewable,1763.4
+AUS,2009-10,"Bagasse, wood",renewable,1761.8
+AUS,2010-11,"Bagasse, wood",renewable,1077
+AUS,2011-12,"Bagasse, wood",renewable,1606.306
+AUS,2012-13,"Bagasse, wood",renewable,1714.34
+AUS,2013-14,"Bagasse, wood",renewable,2053.487
+AUS,2014-15,"Bagasse, wood",renewable,2353.376
+AUS,2015-16,"Bagasse, wood",renewable,2493.407
+AUS,2016-17,"Bagasse, wood",renewable,2251.59
+AUS,2017-18,"Bagasse, wood",renewable,2258.893
+AUS,2018-19,"Bagasse, wood",renewable,2152.237
+AUS,2019-20,"Bagasse, wood",renewable,1989.764
+AUS,2020-21,"Bagasse, wood",renewable,1992.17
+AUS,2021-22,"Bagasse, wood",renewable,1817.451
+AUS,2022-23,"Bagasse, wood",renewable,1687.72
+AUS,2023-24,"Bagasse, wood",renewable,1911.601
+AUS,1989-90,Biogas,renewable,0
+AUS,1990-91,Biogas,renewable,0
+AUS,1991-92,Biogas,renewable,0
+AUS,1992-93,Biogas,renewable,0
+AUS,1993-94,Biogas,renewable,0
+AUS,1994-95,Biogas,renewable,53
+AUS,1995-96,Biogas,renewable,258
+AUS,1996-97,Biogas,renewable,295
+AUS,1997-98,Biogas,renewable,359
+AUS,1998-99,Biogas,renewable,459
+AUS,1999-00,Biogas,renewable,449
+AUS,2000-01,Biogas,renewable,12
+AUS,2001-02,Biogas,renewable,281
+AUS,2002-03,Biogas,renewable,757
+AUS,2003-04,Biogas,renewable,741.3
+AUS,2004-05,Biogas,renewable,593
+AUS,2005-06,Biogas,renewable,643
+AUS,2006-07,Biogas,renewable,637
+AUS,2007-08,Biogas,renewable,859
+AUS,2008-09,Biogas,renewable,1031.8
+AUS,2009-10,Biogas,renewable,1015.6
+AUS,2010-11,Biogas,renewable,1024.7
+AUS,2011-12,Biogas,renewable,1437.441
+AUS,2012-13,Biogas,renewable,1429.16
+AUS,2013-14,Biogas,renewable,1445.903
+AUS,2014-15,Biogas,renewable,1238.858
+AUS,2015-16,Biogas,renewable,1296.487
+AUS,2016-17,Biogas,renewable,1248.956
+AUS,2017-18,Biogas,renewable,1258.792
+AUS,2018-19,Biogas,renewable,1343.644
+AUS,2019-20,Biogas,renewable,1361.866
+AUS,2020-21,Biogas,renewable,1354.012
+AUS,2021-22,Biogas,renewable,1372.806
+AUS,2022-23,Biogas,renewable,1408.312
+AUS,2023-24,Biogas,renewable,1390.27
+AUS,1989-90,Wind,renewable,0
+AUS,1990-91,Wind,renewable,0
+AUS,1991-92,Wind,renewable,0
+AUS,1992-93,Wind,renewable,0
+AUS,1993-94,Wind,renewable,4
+AUS,1994-95,Wind,renewable,7
+AUS,1995-96,Wind,renewable,7
+AUS,1996-97,Wind,renewable,7
+AUS,1997-98,Wind,renewable,8
+AUS,1998-99,Wind,renewable,28
+AUS,1999-00,Wind,renewable,58
+AUS,2000-01,Wind,renewable,210
+AUS,2001-02,Wind,renewable,364
+AUS,2002-03,Wind,renewable,703.1
+AUS,2003-04,Wind,renewable,705
+AUS,2004-05,Wind,renewable,885
+AUS,2005-06,Wind,renewable,1713.1
+AUS,2006-07,Wind,renewable,2611.1
+AUS,2007-08,Wind,renewable,3093.1
+AUS,2008-09,Wind,renewable,3823.797
+AUS,2009-10,Wind,renewable,5051.709
+AUS,2010-11,Wind,renewable,6084.891
+AUS,2011-12,Wind,renewable,6969.828
+AUS,2012-13,Wind,renewable,7959.6
+AUS,2013-14,Wind,renewable,10251.939
+AUS,2014-15,Wind,renewable,11466.485
+AUS,2015-16,Wind,renewable,12199.498
+AUS,2016-17,Wind,renewable,12596.985
+AUS,2017-18,Wind,renewable,15174.425
+AUS,2018-19,Wind,renewable,17711.951
+AUS,2019-20,Wind,renewable,20395.885
+AUS,2020-21,Wind,renewable,24535.369
+AUS,2021-22,Wind,renewable,29107.793
+AUS,2022-23,Wind,renewable,31384.874
+AUS,2023-24,Wind,renewable,30991.961
+AUS,1989-90,Hydro,renewable,14880
+AUS,1990-91,Hydro,renewable,16103
+AUS,1991-92,Hydro,renewable,15768
+AUS,1992-93,Hydro,renewable,16953
+AUS,1993-94,Hydro,renewable,16649
+AUS,1994-95,Hydro,renewable,16239
+AUS,1995-96,Hydro,renewable,15731
+AUS,1996-97,Hydro,renewable,16852
+AUS,1997-98,Hydro,renewable,15733
+AUS,1998-99,Hydro,renewable,16563
+AUS,1999-00,Hydro,renewable,16720
+AUS,2000-01,Hydro,renewable,16933
+AUS,2001-02,Hydro,renewable,16054
+AUS,2002-03,Hydro,renewable,16490
+AUS,2003-04,Hydro,renewable,16331.1
+AUS,2004-05,Hydro,renewable,15612.2
+AUS,2005-06,Hydro,renewable,16029.2
+AUS,2006-07,Hydro,renewable,14517
+AUS,2007-08,Hydro,renewable,12056.9
+AUS,2008-09,Hydro,renewable,11869.4
+AUS,2009-10,Hydro,renewable,13548.7
+AUS,2010-11,Hydro,renewable,16806.7
+AUS,2011-12,Hydro,renewable,14083.3
+AUS,2012-13,Hydro,renewable,18269.6
+AUS,2013-14,Hydro,renewable,18420.9
+AUS,2014-15,Hydro,renewable,13445
+AUS,2015-16,Hydro,renewable,15318.18
+AUS,2016-17,Hydro,renewable,16284.887
+AUS,2017-18,Hydro,renewable,16020.789
+AUS,2018-19,Hydro,renewable,15967.281
+AUS,2019-20,Hydro,renewable,15149.633
+AUS,2020-21,Hydro,renewable,15199.688
+AUS,2021-22,Hydro,renewable,17010.891
+AUS,2022-23,Hydro,renewable,16666.054
+AUS,2023-24,Hydro,renewable,14960.055
+AUS,1989-90,Large-scale solar PV,renewable,0
+AUS,1990-91,Large-scale solar PV,renewable,0
+AUS,1991-92,Large-scale solar PV,renewable,0
+AUS,1992-93,Large-scale solar PV,renewable,0
+AUS,1993-94,Large-scale solar PV,renewable,0
+AUS,1994-95,Large-scale solar PV,renewable,0
+AUS,1995-96,Large-scale solar PV,renewable,0
+AUS,1996-97,Large-scale solar PV,renewable,0
+AUS,1997-98,Large-scale solar PV,renewable,0
+AUS,1998-99,Large-scale solar PV,renewable,0
+AUS,1999-00,Large-scale solar PV,renewable,0
+AUS,2000-01,Large-scale solar PV,renewable,0
+AUS,2001-02,Large-scale solar PV,renewable,0
+AUS,2002-03,Large-scale solar PV,renewable,0
+AUS,2003-04,Large-scale solar PV,renewable,0
+AUS,2004-05,Large-scale solar PV,renewable,0
+AUS,2005-06,Large-scale solar PV,renewable,0
+AUS,2006-07,Large-scale solar PV,renewable,0
+AUS,2007-08,Large-scale solar PV,renewable,0
+AUS,2008-09,Large-scale solar PV,renewable,0
+AUS,2009-10,Large-scale solar PV,renewable,0
+AUS,2010-11,Large-scale solar PV,renewable,0
+AUS,2011-12,Large-scale solar PV,renewable,0
+AUS,2012-13,Large-scale solar PV,renewable,0
+AUS,2013-14,Large-scale solar PV,renewable,49.678
+AUS,2014-15,Large-scale solar PV,renewable,107.221
+AUS,2015-16,Large-scale solar PV,renewable,457.212
+AUS,2016-17,Large-scale solar PV,renewable,672.397
+AUS,2017-18,Large-scale solar PV,renewable,1007.582
+AUS,2018-19,Large-scale solar PV,renewable,3732.36
+AUS,2019-20,Large-scale solar PV,renewable,7136.107
+AUS,2020-21,Large-scale solar PV,renewable,9637.887
+AUS,2021-22,Large-scale solar PV,renewable,12569.176
+AUS,2022-23,Large-scale solar PV,renewable,15212.567
+AUS,2023-24,Large-scale solar PV,renewable,18114.822
+AUS,1989-90,Small-scale solar PV,renewable,0
+AUS,1990-91,Small-scale solar PV,renewable,0
+AUS,1991-92,Small-scale solar PV,renewable,10.9
+AUS,1992-93,Small-scale solar PV,renewable,13.3
+AUS,1993-94,Small-scale solar PV,renewable,15.9
+AUS,1994-95,Small-scale solar PV,renewable,18.9
+AUS,1995-96,Small-scale solar PV,renewable,23.4
+AUS,1996-97,Small-scale solar PV,renewable,27.8
+AUS,1997-98,Small-scale solar PV,renewable,33.5
+AUS,1998-99,Small-scale solar PV,renewable,37.7
+AUS,1999-00,Small-scale solar PV,renewable,43.5
+AUS,2000-01,Small-scale solar PV,renewable,50
+AUS,2001-02,Small-scale solar PV,renewable,58.3
+AUS,2002-03,Small-scale solar PV,renewable,58.3
+AUS,2003-04,Small-scale solar PV,renewable,68.1
+AUS,2004-05,Small-scale solar PV,renewable,77.8
+AUS,2005-06,Small-scale solar PV,renewable,90.3
+AUS,2006-07,Small-scale solar PV,renewable,104.7
+AUS,2007-08,Small-scale solar PV,renewable,122.8
+AUS,2008-09,Small-scale solar PV,renewable,155.6
+AUS,2009-10,Small-scale solar PV,renewable,424.8
+AUS,2010-11,Small-scale solar PV,renewable,1530.5
+AUS,2011-12,Small-scale solar PV,renewable,2558.6
+AUS,2012-13,Small-scale solar PV,renewable,3826.2
+AUS,2013-14,Small-scale solar PV,renewable,4366.277
+AUS,2014-15,Small-scale solar PV,renewable,5424.113
+AUS,2015-16,Small-scale solar PV,renewable,6381.049
+AUS,2016-17,Small-scale solar PV,renewable,7399.259
+AUS,2017-18,Small-scale solar PV,renewable,8922.359
+AUS,2018-19,Small-scale solar PV,renewable,11116.163
+AUS,2019-20,Small-scale solar PV,renewable,13897.088
+AUS,2020-21,Small-scale solar PV,renewable,18079.064
+AUS,2021-22,Small-scale solar PV,renewable,22117.45
+AUS,2022-23,Small-scale solar PV,renewable,26229.198
+AUS,2023-24,Small-scale solar PV,renewable,30485.434
+AUS,1989-90,Geothermal,renewable,0
+AUS,1990-91,Geothermal,renewable,0
+AUS,1991-92,Geothermal,renewable,0
+AUS,1992-93,Geothermal,renewable,0
+AUS,1993-94,Geothermal,renewable,0
+AUS,1994-95,Geothermal,renewable,0
+AUS,1995-96,Geothermal,renewable,0
+AUS,1996-97,Geothermal,renewable,0
+AUS,1997-98,Geothermal,renewable,0
+AUS,1998-99,Geothermal,renewable,0
+AUS,1999-00,Geothermal,renewable,0
+AUS,2000-01,Geothermal,renewable,0
+AUS,2001-02,Geothermal,renewable,0
+AUS,2002-03,Geothermal,renewable,0
+AUS,2003-04,Geothermal,renewable,0.5
+AUS,2004-05,Geothermal,renewable,0.5
+AUS,2005-06,Geothermal,renewable,0.5
+AUS,2006-07,Geothermal,renewable,0.5
+AUS,2007-08,Geothermal,renewable,0.5
+AUS,2008-09,Geothermal,renewable,0.5
+AUS,2009-10,Geothermal,renewable,0.5
+AUS,2010-11,Geothermal,renewable,0.5
+AUS,2011-12,Geothermal,renewable,0.5
+AUS,2012-13,Geothermal,renewable,0.5
+AUS,2013-14,Geothermal,renewable,0.5
+AUS,2014-15,Geothermal,renewable,0.6
+AUS,2015-16,Geothermal,renewable,0.215
+AUS,2016-17,Geothermal,renewable,0.502
+AUS,2017-18,Geothermal,renewable,0
+AUS,2018-19,Geothermal,renewable,0
+AUS,2019-20,Geothermal,renewable,0
+AUS,2020-21,Geothermal,renewable,0
+AUS,2021-22,Geothermal,renewable,0
+AUS,2022-23,Geothermal,renewable,0
+AUS,2023-24,Geothermal,renewable,0
+AUS,1989-90,total renewable,total,15630
+AUS,1990-91,total renewable,total,16872
+AUS,1991-92,total renewable,total,16448.9
+AUS,1992-93,total renewable,total,17636.3
+AUS,1993-94,total renewable,total,17338.9
+AUS,1994-95,total renewable,total,16987.9
+AUS,1995-96,total renewable,total,16689.4
+AUS,1996-97,total renewable,total,17851.8
+AUS,1997-98,total renewable,total,16803.5
+AUS,1998-99,total renewable,total,17761.7
+AUS,1999-00,total renewable,total,17955.5
+AUS,2000-01,total renewable,total,17838
+AUS,2001-02,total renewable,total,17426.3
+AUS,2002-03,total renewable,total,18835
+AUS,2003-04,total renewable,total,18904.2
+AUS,2004-05,total renewable,total,20405.5
+AUS,2005-06,total renewable,total,21744.1
+AUS,2006-07,total renewable,total,21186.3
+AUS,2007-08,total renewable,total,19869.3
+AUS,2008-09,total renewable,total,18644.497
+AUS,2009-10,total renewable,total,21803.109
+AUS,2010-11,total renewable,total,26524.291
+AUS,2011-12,total renewable,total,26655.975
+AUS,2012-13,total renewable,total,33199.4
+AUS,2013-14,total renewable,total,36588.684
+AUS,2014-15,total renewable,total,34035.653
+AUS,2015-16,total renewable,total,38146.048
+AUS,2016-17,total renewable,total,40454.576
+AUS,2017-18,total renewable,total,44642.84
+AUS,2018-19,total renewable,total,52023.636
+AUS,2019-20,total renewable,total,59930.342
+AUS,2020-21,total renewable,total,70798.19
+AUS,2021-22,total renewable,total,83995.568
+AUS,2022-23,total renewable,total,92588.725
+AUS,2023-24,total renewable,total,97854.143
+NSW,2008-09,Black coal,non-renewable,67650.3
+NSW,2009-10,Black coal,non-renewable,64398.6
+NSW,2010-11,Black coal,non-renewable,60732.2
+NSW,2011-12,Black coal,non-renewable,60453.7
+NSW,2012-13,Black coal,non-renewable,56798.6
+NSW,2013-14,Black coal,non-renewable,55819.495
+NSW,2014-15,Black coal,non-renewable,52562.2
+NSW,2015-16,Black coal,non-renewable,55334.499
+NSW,2016-17,Black coal,non-renewable,55967.139
+NSW,2017-18,Black coal,non-renewable,57022.151
+NSW,2018-19,Black coal,non-renewable,57734.932
+NSW,2019-20,Black coal,non-renewable,53566.67
+NSW,2020-21,Black coal,non-renewable,50790.813
+NSW,2021-22,Black coal,non-renewable,46958.795
+NSW,2022-23,Black coal,non-renewable,45602.768
+NSW,2023-24,Black coal,non-renewable,44885.907
+NSW,2008-09,Brown coal,non-renewable,0
+NSW,2009-10,Brown coal,non-renewable,0
+NSW,2010-11,Brown coal,non-renewable,0
+NSW,2011-12,Brown coal,non-renewable,0
+NSW,2012-13,Brown coal,non-renewable,0
+NSW,2013-14,Brown coal,non-renewable,0
+NSW,2014-15,Brown coal,non-renewable,0
+NSW,2015-16,Brown coal,non-renewable,0
+NSW,2016-17,Brown coal,non-renewable,0
+NSW,2017-18,Brown coal,non-renewable,0
+NSW,2018-19,Brown coal,non-renewable,0
+NSW,2019-20,Brown coal,non-renewable,0
+NSW,2020-21,Brown coal,non-renewable,0
+NSW,2021-22,Brown coal,non-renewable,0
+NSW,2022-23,Brown coal,non-renewable,0
+NSW,2023-24,Brown coal,non-renewable,0
+NSW,2008-09,Natural gas,non-renewable,2445.1
+NSW,2009-10,Natural gas,non-renewable,4681.3
+NSW,2010-11,Natural gas,non-renewable,4742.7
+NSW,2011-12,Natural gas,non-renewable,4212.1
+NSW,2012-13,Natural gas,non-renewable,5168.7
+NSW,2013-14,Natural gas,non-renewable,5528.3
+NSW,2014-15,Natural gas,non-renewable,4528.39
+NSW,2015-16,Natural gas,non-renewable,4628.561
+NSW,2016-17,Natural gas,non-renewable,3330.808
+NSW,2017-18,Natural gas,non-renewable,3045.834
+NSW,2018-19,Natural gas,non-renewable,2360.324
+NSW,2019-20,Natural gas,non-renewable,2870.937
+NSW,2020-21,Natural gas,non-renewable,1903.206
+NSW,2021-22,Natural gas,non-renewable,3210.705
+NSW,2022-23,Natural gas,non-renewable,2497.562
+NSW,2023-24,Natural gas,non-renewable,2159.23
+NSW,2008-09,Oil products,non-renewable,24.7
+NSW,2009-10,Oil products,non-renewable,5.6
+NSW,2010-11,Oil products,non-renewable,61.4
+NSW,2011-12,Oil products,non-renewable,42.1
+NSW,2012-13,Oil products,non-renewable,190.9
+NSW,2013-14,Oil products,non-renewable,170.7
+NSW,2014-15,Oil products,non-renewable,284.3
+NSW,2015-16,Oil products,non-renewable,289.533
+NSW,2016-17,Oil products,non-renewable,321.55
+NSW,2017-18,Oil products,non-renewable,324.365
+NSW,2018-19,Oil products,non-renewable,322.563
+NSW,2019-20,Oil products,non-renewable,337.29
+NSW,2020-21,Oil products,non-renewable,340.577
+NSW,2021-22,Oil products,non-renewable,458.081
+NSW,2022-23,Oil products,non-renewable,389.558
+NSW,2023-24,Oil products,non-renewable,590.955
+NSW,2008-09,Other,non-renewable,0
+NSW,2009-10,Other,non-renewable,0
+NSW,2010-11,Other,non-renewable,0
+NSW,2011-12,Other,non-renewable,0
+NSW,2012-13,Other,non-renewable,0
+NSW,2013-14,Other,non-renewable,0
+NSW,2014-15,Other,non-renewable,0
+NSW,2015-16,Other,non-renewable,0
+NSW,2016-17,Other,non-renewable,0
+NSW,2017-18,Other,non-renewable,0
+NSW,2018-19,Other,non-renewable,0
+NSW,2019-20,Other,non-renewable,0
+NSW,2020-21,Other,non-renewable,0
+NSW,2021-22,Other,non-renewable,0
+NSW,2022-23,Other,non-renewable,0
+NSW,2023-24,Other,non-renewable,0
+NSW,2008-09,total non-renewable,total,70120.1
+NSW,2009-10,total non-renewable,total,69085.5
+NSW,2010-11,total non-renewable,total,65536.3
+NSW,2011-12,total non-renewable,total,64707.9
+NSW,2012-13,total non-renewable,total,62158.2
+NSW,2013-14,total non-renewable,total,61518.495
+NSW,2014-15,total non-renewable,total,57374.89
+NSW,2015-16,total non-renewable,total,60252.593
+NSW,2016-17,total non-renewable,total,59619.497
+NSW,2017-18,total non-renewable,total,60392.35
+NSW,2018-19,total non-renewable,total,60417.819
+NSW,2019-20,total non-renewable,total,56774.898
+NSW,2020-21,total non-renewable,total,53034.595
+NSW,2021-22,total non-renewable,total,50627.581
+NSW,2022-23,total non-renewable,total,48489.888
+NSW,2023-24,total non-renewable,total,47636.092
+NSW,2008-09,"Bagasse, wood",renewable,291.3
+NSW,2009-10,"Bagasse, wood",renewable,295.3
+NSW,2010-11,"Bagasse, wood",renewable,253.3
+NSW,2011-12,"Bagasse, wood",renewable,413.6
+NSW,2012-13,"Bagasse, wood",renewable,425.4
+NSW,2013-14,"Bagasse, wood",renewable,461.7
+NSW,2014-15,"Bagasse, wood",renewable,551.1
+NSW,2015-16,"Bagasse, wood",renewable,601.734
+NSW,2016-17,"Bagasse, wood",renewable,696.468
+NSW,2017-18,"Bagasse, wood",renewable,764.985
+NSW,2018-19,"Bagasse, wood",renewable,758.832
+NSW,2019-20,"Bagasse, wood",renewable,716.2
+NSW,2020-21,"Bagasse, wood",renewable,686.098
+NSW,2021-22,"Bagasse, wood",renewable,568.338
+NSW,2022-23,"Bagasse, wood",renewable,580.955
+NSW,2023-24,"Bagasse, wood",renewable,616.879
+NSW,2008-09,Biogas,renewable,383.4
+NSW,2009-10,Biogas,renewable,385.8
+NSW,2010-11,Biogas,renewable,360
+NSW,2011-12,Biogas,renewable,408.7
+NSW,2012-13,Biogas,renewable,413.4
+NSW,2013-14,Biogas,renewable,420.6
+NSW,2014-15,Biogas,renewable,472.1
+NSW,2015-16,Biogas,renewable,444.606
+NSW,2016-17,Biogas,renewable,406.21
+NSW,2017-18,Biogas,renewable,424.375
+NSW,2018-19,Biogas,renewable,418.791
+NSW,2019-20,Biogas,renewable,387.435
+NSW,2020-21,Biogas,renewable,411.044
+NSW,2021-22,Biogas,renewable,398.533
+NSW,2022-23,Biogas,renewable,411.396
+NSW,2023-24,Biogas,renewable,423.59
+NSW,2008-09,Wind,renewable,41.3
+NSW,2009-10,Wind,renewable,432.5
+NSW,2010-11,Wind,renewable,530.091
+NSW,2011-12,Wind,renewable,697.6
+NSW,2012-13,Wind,renewable,832.6
+NSW,2013-14,Wind,renewable,899.202
+NSW,2014-15,Wind,renewable,1376
+NSW,2015-16,Wind,renewable,1898.787
+NSW,2016-17,Wind,renewable,1872.027
+NSW,2017-18,Wind,renewable,2431.628
+NSW,2018-19,Wind,renewable,3739.737
+NSW,2019-20,Wind,renewable,4574.26
+NSW,2020-21,Wind,renewable,4805.916
+NSW,2021-22,Wind,renewable,5973.429
+NSW,2022-23,Wind,renewable,6210.924
+NSW,2023-24,Wind,renewable,5892.994
+NSW,2008-09,Hydro,renewable,1496.977
+NSW,2009-10,Hydro,renewable,2689.526
+NSW,2010-11,Hydro,renewable,2474.878
+NSW,2011-12,Hydro,renewable,2446.925
+NSW,2012-13,Hydro,renewable,3298.089
+NSW,2013-14,Hydro,renewable,2721.109
+NSW,2014-15,Hydro,renewable,1770.988
+NSW,2015-16,Hydro,renewable,3170.201
+NSW,2016-17,Hydro,renewable,3290.647
+NSW,2017-18,Hydro,renewable,2915.519
+NSW,2018-19,Hydro,renewable,2160.284
+NSW,2019-20,Hydro,renewable,2110.053
+NSW,2020-21,Hydro,renewable,2964.239
+NSW,2021-22,Hydro,renewable,3315.522
+NSW,2022-23,Hydro,renewable,3752.077
+NSW,2023-24,Hydro,renewable,3148.196
+NSW,2008-09,Large-scale solar PV,renewable,0
+NSW,2009-10,Large-scale solar PV,renewable,0
+NSW,2010-11,Large-scale solar PV,renewable,0
+NSW,2011-12,Large-scale solar PV,renewable,0
+NSW,2012-13,Large-scale solar PV,renewable,0
+NSW,2013-14,Large-scale solar PV,renewable,10.635
+NSW,2014-15,Large-scale solar PV,renewable,60.176
+NSW,2015-16,Large-scale solar PV,renewable,399.511
+NSW,2016-17,Large-scale solar PV,renewable,567.558
+NSW,2017-18,Large-scale solar PV,renewable,699.96
+NSW,2018-19,Large-scale solar PV,renewable,1348.238
+NSW,2019-20,Large-scale solar PV,renewable,2084.569
+NSW,2020-21,Large-scale solar PV,renewable,3368.02
+NSW,2021-22,Large-scale solar PV,renewable,5014.413
+NSW,2022-23,Large-scale solar PV,renewable,5770.351
+NSW,2023-24,Large-scale solar PV,renewable,7404.681
+NSW,2008-09,Small-scale solar PV,renewable,36.3
+NSW,2009-10,Small-scale solar PV,renewable,119.2
+NSW,2010-11,Small-scale solar PV,renewable,526.3
+NSW,2011-12,Small-scale solar PV,renewable,657.7
+NSW,2012-13,Small-scale solar PV,renewable,857.6
+NSW,2013-14,Small-scale solar PV,renewable,964.898
+NSW,2014-15,Small-scale solar PV,renewable,1211.187
+NSW,2015-16,Small-scale solar PV,renewable,1461.945
+NSW,2016-17,Small-scale solar PV,renewable,1706.84
+NSW,2017-18,Small-scale solar PV,renewable,2095.805
+NSW,2018-19,Small-scale solar PV,renewable,2717.095
+NSW,2019-20,Small-scale solar PV,renewable,3417.322
+NSW,2020-21,Small-scale solar PV,renewable,4892.915
+NSW,2021-22,Small-scale solar PV,renewable,6201.341
+NSW,2022-23,Small-scale solar PV,renewable,7555.163
+NSW,2023-24,Small-scale solar PV,renewable,9110.462
+NSW,2008-09,Geothermal,renewable,0
+NSW,2009-10,Geothermal,renewable,0
+NSW,2010-11,Geothermal,renewable,0
+NSW,2011-12,Geothermal,renewable,0
+NSW,2012-13,Geothermal,renewable,0
+NSW,2013-14,Geothermal,renewable,0
+NSW,2014-15,Geothermal,renewable,0
+NSW,2015-16,Geothermal,renewable,0
+NSW,2016-17,Geothermal,renewable,0
+NSW,2017-18,Geothermal,renewable,0
+NSW,2018-19,Geothermal,renewable,0
+NSW,2019-20,Geothermal,renewable,0
+NSW,2020-21,Geothermal,renewable,0
+NSW,2021-22,Geothermal,renewable,0
+NSW,2022-23,Geothermal,renewable,0
+NSW,2023-24,Geothermal,renewable,0
+NSW,2008-09,total renewable,total,2249.277
+NSW,2009-10,total renewable,total,3922.326
+NSW,2010-11,total renewable,total,4144.569
+NSW,2011-12,total renewable,total,4624.525
+NSW,2012-13,total renewable,total,5827.089
+NSW,2013-14,total renewable,total,5478.144
+NSW,2014-15,total renewable,total,5441.551
+NSW,2015-16,total renewable,total,7976.784
+NSW,2016-17,total renewable,total,8539.75
+NSW,2017-18,total renewable,total,9332.271
+NSW,2018-19,total renewable,total,11142.976
+NSW,2019-20,total renewable,total,13289.838
+NSW,2020-21,total renewable,total,17128.232
+NSW,2021-22,total renewable,total,21471.577
+NSW,2022-23,total renewable,total,24280.866
+NSW,2023-24,total renewable,total,26596.802
+VIC,2008-09,Black coal,non-renewable,0
+VIC,2009-10,Black coal,non-renewable,0
+VIC,2010-11,Black coal,non-renewable,0
+VIC,2011-12,Black coal,non-renewable,0
+VIC,2012-13,Black coal,non-renewable,0
+VIC,2013-14,Black coal,non-renewable,0
+VIC,2014-15,Black coal,non-renewable,0
+VIC,2015-16,Black coal,non-renewable,0
+VIC,2016-17,Black coal,non-renewable,0
+VIC,2017-18,Black coal,non-renewable,0
+VIC,2018-19,Black coal,non-renewable,0
+VIC,2019-20,Black coal,non-renewable,0
+VIC,2020-21,Black coal,non-renewable,0
+VIC,2021-22,Black coal,non-renewable,0
+VIC,2022-23,Black coal,non-renewable,0
+VIC,2023-24,Black coal,non-renewable,0
+VIC,2008-09,Brown coal,non-renewable,52094
+VIC,2009-10,Brown coal,non-renewable,51541.7
+VIC,2010-11,Brown coal,non-renewable,51066.5
+VIC,2011-12,Brown coal,non-renewable,52059.7
+VIC,2012-13,Brown coal,non-renewable,45317.6
+VIC,2013-14,Brown coal,non-renewable,43977.7
+VIC,2014-15,Brown coal,non-renewable,48336.8
+VIC,2015-16,Brown coal,non-renewable,46234.132
+VIC,2016-17,Brown coal,non-renewable,43594.098
+VIC,2017-18,Brown coal,non-renewable,36021.427
+VIC,2018-19,Brown coal,non-renewable,34495.245
+VIC,2019-20,Brown coal,non-renewable,33661.55
+VIC,2020-21,Brown coal,non-renewable,34060.028
+VIC,2021-22,Brown coal,non-renewable,32515.636
+VIC,2022-23,Brown coal,non-renewable,31459.126
+VIC,2023-24,Brown coal,non-renewable,32137.08
+VIC,2008-09,Natural gas,non-renewable,1451.9
+VIC,2009-10,Natural gas,non-renewable,1697.9
+VIC,2010-11,Natural gas,non-renewable,1289.8
+VIC,2011-12,Natural gas,non-renewable,1142.5
+VIC,2012-13,Natural gas,non-renewable,3247.7
+VIC,2013-14,Natural gas,non-renewable,3239.3
+VIC,2014-15,Natural gas,non-renewable,2390.927
+VIC,2015-16,Natural gas,non-renewable,1892.244
+VIC,2016-17,Natural gas,non-renewable,2658.739
+VIC,2017-18,Natural gas,non-renewable,3829.887
+VIC,2018-19,Natural gas,non-renewable,3334.031
+VIC,2019-20,Natural gas,non-renewable,3117.04
+VIC,2020-21,Natural gas,non-renewable,1956.916
+VIC,2021-22,Natural gas,non-renewable,2224.829
+VIC,2022-23,Natural gas,non-renewable,1693.466
+VIC,2023-24,Natural gas,non-renewable,1486.717
+VIC,2008-09,Oil products,non-renewable,20.4
+VIC,2009-10,Oil products,non-renewable,1.1
+VIC,2010-11,Oil products,non-renewable,38.2
+VIC,2011-12,Oil products,non-renewable,4
+VIC,2012-13,Oil products,non-renewable,10.7
+VIC,2013-14,Oil products,non-renewable,145.8
+VIC,2014-15,Oil products,non-renewable,155.95
+VIC,2015-16,Oil products,non-renewable,70.573
+VIC,2016-17,Oil products,non-renewable,109.281
+VIC,2017-18,Oil products,non-renewable,178.023
+VIC,2018-19,Oil products,non-renewable,204.659
+VIC,2019-20,Oil products,non-renewable,201.974
+VIC,2020-21,Oil products,non-renewable,179.068
+VIC,2021-22,Oil products,non-renewable,219.429
+VIC,2022-23,Oil products,non-renewable,259.086
+VIC,2023-24,Oil products,non-renewable,205.994
+VIC,2008-09,Other,non-renewable,0
+VIC,2009-10,Other,non-renewable,0
+VIC,2010-11,Other,non-renewable,0
+VIC,2011-12,Other,non-renewable,0
+VIC,2012-13,Other,non-renewable,0
+VIC,2013-14,Other,non-renewable,0
+VIC,2014-15,Other,non-renewable,0
+VIC,2015-16,Other,non-renewable,0
+VIC,2016-17,Other,non-renewable,0
+VIC,2017-18,Other,non-renewable,0
+VIC,2018-19,Other,non-renewable,0
+VIC,2019-20,Other,non-renewable,0
+VIC,2020-21,Other,non-renewable,0
+VIC,2021-22,Other,non-renewable,0
+VIC,2022-23,Other,non-renewable,0
+VIC,2023-24,Other,non-renewable,0
+VIC,2008-09,total non-renewable,total,53566.3
+VIC,2009-10,total non-renewable,total,53240.7
+VIC,2010-11,total non-renewable,total,52394.5
+VIC,2011-12,total non-renewable,total,53206.2
+VIC,2012-13,total non-renewable,total,48576
+VIC,2013-14,total non-renewable,total,47362.8
+VIC,2014-15,total non-renewable,total,50883.677
+VIC,2015-16,total non-renewable,total,48196.949
+VIC,2016-17,total non-renewable,total,46362.117
+VIC,2017-18,total non-renewable,total,40029.336
+VIC,2018-19,total non-renewable,total,38033.936
+VIC,2019-20,total non-renewable,total,36980.565
+VIC,2020-21,total non-renewable,total,36196.013
+VIC,2021-22,total non-renewable,total,34959.893
+VIC,2022-23,total non-renewable,total,33411.677
+VIC,2023-24,total non-renewable,total,33829.791
+VIC,2008-09,"Bagasse, wood",renewable,0
+VIC,2009-10,"Bagasse, wood",renewable,0
+VIC,2010-11,"Bagasse, wood",renewable,0
+VIC,2011-12,"Bagasse, wood",renewable,187.106
+VIC,2012-13,"Bagasse, wood",renewable,171.14
+VIC,2013-14,"Bagasse, wood",renewable,188.787
+VIC,2014-15,"Bagasse, wood",renewable,251.976
+VIC,2015-16,"Bagasse, wood",renewable,235.392
+VIC,2016-17,"Bagasse, wood",renewable,263.355
+VIC,2017-18,"Bagasse, wood",renewable,241.012
+VIC,2018-19,"Bagasse, wood",renewable,235.469
+VIC,2019-20,"Bagasse, wood",renewable,243.797
+VIC,2020-21,"Bagasse, wood",renewable,229.67
+VIC,2021-22,"Bagasse, wood",renewable,258.839
+VIC,2022-23,"Bagasse, wood",renewable,192.908
+VIC,2023-24,"Bagasse, wood",renewable,139.835
+VIC,2008-09,Biogas,renewable,292
+VIC,2009-10,Biogas,renewable,303.4
+VIC,2010-11,Biogas,renewable,339.6
+VIC,2011-12,Biogas,renewable,672.241
+VIC,2012-13,Biogas,renewable,673.96
+VIC,2013-14,Biogas,renewable,698.103
+VIC,2014-15,Biogas,renewable,420.258
+VIC,2015-16,Biogas,renewable,512.312
+VIC,2016-17,Biogas,renewable,431.106
+VIC,2017-18,Biogas,renewable,460.192
+VIC,2018-19,Biogas,renewable,497.644
+VIC,2019-20,Biogas,renewable,535.728
+VIC,2020-21,Biogas,renewable,499.303
+VIC,2021-22,Biogas,renewable,497.999
+VIC,2022-23,Biogas,renewable,484.544
+VIC,2023-24,Biogas,renewable,470.026
+VIC,2008-09,Wind,renewable,573
+VIC,2009-10,Wind,renewable,1406
+VIC,2010-11,Wind,renewable,1434.4
+VIC,2011-12,Wind,renewable,1416.2
+VIC,2012-13,Wind,renewable,2005.1
+VIC,2013-14,Wind,renewable,2771.9
+VIC,2014-15,Wind,renewable,3067.791
+VIC,2015-16,Wind,renewable,3341.83
+VIC,2016-17,Wind,renewable,3560.851
+VIC,2017-18,Wind,renewable,4303.851
+VIC,2018-19,Wind,renewable,4863.699
+VIC,2019-20,Wind,renewable,5596.248
+VIC,2020-21,Wind,renewable,7080.623
+VIC,2021-22,Wind,renewable,9563.573
+VIC,2022-23,Wind,renewable,11065.542
+VIC,2023-24,Wind,renewable,10651.904
+VIC,2008-09,Hydro,renewable,2234.523
+VIC,2009-10,Hydro,renewable,1974.974
+VIC,2010-11,Hydro,renewable,3910.622
+VIC,2011-12,Hydro,renewable,2393.275
+VIC,2012-13,Hydro,renewable,3293.811
+VIC,2013-14,Hydro,renewable,2594.991
+VIC,2014-15,Hydro,renewable,2513.612
+VIC,2015-16,Hydro,renewable,3228.452
+VIC,2016-17,Hydro,renewable,3673.259
+VIC,2017-18,Hydro,renewable,2803.107
+VIC,2018-19,Hydro,renewable,2702.802
+VIC,2019-20,Hydro,renewable,2310.836
+VIC,2020-21,Hydro,renewable,2851.962
+VIC,2021-22,Hydro,renewable,2787.873
+VIC,2022-23,Hydro,renewable,3237.202
+VIC,2023-24,Hydro,renewable,2798.338
+VIC,2008-09,Large-scale solar PV,renewable,0
+VIC,2009-10,Large-scale solar PV,renewable,0
+VIC,2010-11,Large-scale solar PV,renewable,0
+VIC,2011-12,Large-scale solar PV,renewable,0
+VIC,2012-13,Large-scale solar PV,renewable,0
+VIC,2013-14,Large-scale solar PV,renewable,4.41
+VIC,2014-15,Large-scale solar PV,renewable,9.066
+VIC,2015-16,Large-scale solar PV,renewable,11.473
+VIC,2016-17,Large-scale solar PV,renewable,13.802
+VIC,2017-18,Large-scale solar PV,renewable,39.442
+VIC,2018-19,Large-scale solar PV,renewable,462.469
+VIC,2019-20,Large-scale solar PV,renewable,872.458
+VIC,2020-21,Large-scale solar PV,renewable,1455.53
+VIC,2021-22,Large-scale solar PV,renewable,1897.432
+VIC,2022-23,Large-scale solar PV,renewable,1970.487
+VIC,2023-24,Large-scale solar PV,renewable,2011.43
+VIC,2008-09,Small-scale solar PV,renewable,24.1
+VIC,2009-10,Small-scale solar PV,renewable,66.2
+VIC,2010-11,Small-scale solar PV,renewable,205.5
+VIC,2011-12,Small-scale solar PV,renewable,378.7
+VIC,2012-13,Small-scale solar PV,renewable,580.1
+VIC,2013-14,Small-scale solar PV,renewable,674.162
+VIC,2014-15,Small-scale solar PV,renewable,874.831
+VIC,2015-16,Small-scale solar PV,renewable,1056.128
+VIC,2016-17,Small-scale solar PV,renewable,1231.72
+VIC,2017-18,Small-scale solar PV,renewable,1481.194
+VIC,2018-19,Small-scale solar PV,renewable,1899.952
+VIC,2019-20,Small-scale solar PV,renewable,2457.27
+VIC,2020-21,Small-scale solar PV,renewable,3176.379
+VIC,2021-22,Small-scale solar PV,renewable,3941.958
+VIC,2022-23,Small-scale solar PV,renewable,4777.87
+VIC,2023-24,Small-scale solar PV,renewable,5549.976
+VIC,2008-09,Geothermal,renewable,0
+VIC,2009-10,Geothermal,renewable,0
+VIC,2010-11,Geothermal,renewable,0
+VIC,2011-12,Geothermal,renewable,0
+VIC,2012-13,Geothermal,renewable,0
+VIC,2013-14,Geothermal,renewable,0
+VIC,2014-15,Geothermal,renewable,0
+VIC,2015-16,Geothermal,renewable,0
+VIC,2016-17,Geothermal,renewable,0
+VIC,2017-18,Geothermal,renewable,0
+VIC,2018-19,Geothermal,renewable,0
+VIC,2019-20,Geothermal,renewable,0
+VIC,2020-21,Geothermal,renewable,0
+VIC,2021-22,Geothermal,renewable,0
+VIC,2022-23,Geothermal,renewable,0
+VIC,2023-24,Geothermal,renewable,0
+VIC,2008-09,total renewable,total,3123.623
+VIC,2009-10,total renewable,total,3750.574
+VIC,2010-11,total renewable,total,5890.122
+VIC,2011-12,total renewable,total,5047.522
+VIC,2012-13,total renewable,total,6724.111
+VIC,2013-14,total renewable,total,6932.353
+VIC,2014-15,total renewable,total,7137.534
+VIC,2015-16,total renewable,total,8385.587
+VIC,2016-17,total renewable,total,9174.092
+VIC,2017-18,total renewable,total,9328.798
+VIC,2018-19,total renewable,total,10662.034
+VIC,2019-20,total renewable,total,12016.336
+VIC,2020-21,total renewable,total,15293.467
+VIC,2021-22,total renewable,total,18947.673
+VIC,2022-23,total renewable,total,21728.553
+VIC,2023-24,total renewable,total,21621.509
+QLD,2008-09,Black coal,non-renewable,50882.2
+QLD,2009-10,Black coal,non-renewable,49713.7
+QLD,2010-11,Black coal,non-renewable,45864.3
+QLD,2011-12,Black coal,non-renewable,45417.3
+QLD,2012-13,Black coal,non-renewable,44415.6
+QLD,2013-14,Black coal,non-renewable,40260.7
+QLD,2014-15,Black coal,non-renewable,44553.8
+QLD,2015-16,Black coal,non-renewable,48015.845
+QLD,2016-17,Black coal,non-renewable,51042.664
+QLD,2017-18,Black coal,non-renewable,53635.267
+QLD,2018-19,Black coal,non-renewable,52120.624
+QLD,2019-20,Black coal,non-renewable,48568.909
+QLD,2020-21,Black coal,non-renewable,46248.188
+QLD,2021-22,Black coal,non-renewable,44460.898
+QLD,2022-23,Black coal,non-renewable,43230.766
+QLD,2023-24,Black coal,non-renewable,43591.717
+QLD,2008-09,Brown coal,non-renewable,0
+QLD,2009-10,Brown coal,non-renewable,0
+QLD,2010-11,Brown coal,non-renewable,0
+QLD,2011-12,Brown coal,non-renewable,0
+QLD,2012-13,Brown coal,non-renewable,0
+QLD,2013-14,Brown coal,non-renewable,0
+QLD,2014-15,Brown coal,non-renewable,0
+QLD,2015-16,Brown coal,non-renewable,0
+QLD,2016-17,Brown coal,non-renewable,0
+QLD,2017-18,Brown coal,non-renewable,0
+QLD,2018-19,Brown coal,non-renewable,0
+QLD,2019-20,Brown coal,non-renewable,0
+QLD,2020-21,Brown coal,non-renewable,0
+QLD,2021-22,Brown coal,non-renewable,0
+QLD,2022-23,Brown coal,non-renewable,0
+QLD,2023-24,Brown coal,non-renewable,0
+QLD,2008-09,Natural gas,non-renewable,9257.2
+QLD,2009-10,Natural gas,non-renewable,12020.6
+QLD,2010-11,Natural gas,non-renewable,14595.3
+QLD,2011-12,Natural gas,non-renewable,15303.4
+QLD,2012-13,Natural gas,non-renewable,13909.5
+QLD,2013-14,Natural gas,non-renewable,15454.3
+QLD,2014-15,Natural gas,non-renewable,18248.5
+QLD,2015-16,Natural gas,non-renewable,13816.933
+QLD,2016-17,Natural gas,non-renewable,12236.549
+QLD,2017-18,Natural gas,non-renewable,11045.527
+QLD,2018-19,Natural gas,non-renewable,9933.919
+QLD,2019-20,Natural gas,non-renewable,11214.11
+QLD,2020-21,Natural gas,non-renewable,10324.408
+QLD,2021-22,Natural gas,non-renewable,9505.386
+QLD,2022-23,Natural gas,non-renewable,9113.598
+QLD,2023-24,Natural gas,non-renewable,8953.187
+QLD,2008-09,Oil products,non-renewable,711.4
+QLD,2009-10,Oil products,non-renewable,370.7
+QLD,2010-11,Oil products,non-renewable,373.7
+QLD,2011-12,Oil products,non-renewable,306
+QLD,2012-13,Oil products,non-renewable,1042.6
+QLD,2013-14,Oil products,non-renewable,959.5
+QLD,2014-15,Oil products,non-renewable,1197.2
+QLD,2015-16,Oil products,non-renewable,1199.072
+QLD,2016-17,Oil products,non-renewable,1215.94
+QLD,2017-18,Oil products,non-renewable,1047.661
+QLD,2018-19,Oil products,non-renewable,1000.586
+QLD,2019-20,Oil products,non-renewable,983.736
+QLD,2020-21,Oil products,non-renewable,1034.935
+QLD,2021-22,Oil products,non-renewable,1098.31
+QLD,2022-23,Oil products,non-renewable,1235.302
+QLD,2023-24,Oil products,non-renewable,1200.306
+QLD,2008-09,Other,non-renewable,0
+QLD,2009-10,Other,non-renewable,0
+QLD,2010-11,Other,non-renewable,0
+QLD,2011-12,Other,non-renewable,0
+QLD,2012-13,Other,non-renewable,0
+QLD,2013-14,Other,non-renewable,0
+QLD,2014-15,Other,non-renewable,0
+QLD,2015-16,Other,non-renewable,0
+QLD,2016-17,Other,non-renewable,0
+QLD,2017-18,Other,non-renewable,0
+QLD,2018-19,Other,non-renewable,0
+QLD,2019-20,Other,non-renewable,0
+QLD,2020-21,Other,non-renewable,0
+QLD,2021-22,Other,non-renewable,0
+QLD,2022-23,Other,non-renewable,0
+QLD,2023-24,Other,non-renewable,0
+QLD,2008-09,total non-renewable,total,60850.8
+QLD,2009-10,total non-renewable,total,62105
+QLD,2010-11,total non-renewable,total,60833.3
+QLD,2011-12,total non-renewable,total,61026.7
+QLD,2012-13,total non-renewable,total,59367.7
+QLD,2013-14,total non-renewable,total,56674.5
+QLD,2014-15,total non-renewable,total,63999.5
+QLD,2015-16,total non-renewable,total,63031.85
+QLD,2016-17,total non-renewable,total,64495.153
+QLD,2017-18,total non-renewable,total,65728.454
+QLD,2018-19,total non-renewable,total,63055.128
+QLD,2019-20,total non-renewable,total,60766.756
+QLD,2020-21,total non-renewable,total,57607.532
+QLD,2021-22,total non-renewable,total,55064.593
+QLD,2022-23,total non-renewable,total,53579.665
+QLD,2023-24,total non-renewable,total,53745.21
+QLD,2008-09,"Bagasse, wood",renewable,1472.1
+QLD,2009-10,"Bagasse, wood",renewable,1466.5
+QLD,2010-11,"Bagasse, wood",renewable,823.7
+QLD,2011-12,"Bagasse, wood",renewable,1005.6
+QLD,2012-13,"Bagasse, wood",renewable,1117.8
+QLD,2013-14,"Bagasse, wood",renewable,1403
+QLD,2014-15,"Bagasse, wood",renewable,1550.3
+QLD,2015-16,"Bagasse, wood",renewable,1656.281
+QLD,2016-17,"Bagasse, wood",renewable,1291.767
+QLD,2017-18,"Bagasse, wood",renewable,1252.897
+QLD,2018-19,"Bagasse, wood",renewable,1157.937
+QLD,2019-20,"Bagasse, wood",renewable,1029.768
+QLD,2020-21,"Bagasse, wood",renewable,1076.402
+QLD,2021-22,"Bagasse, wood",renewable,990.274
+QLD,2022-23,"Bagasse, wood",renewable,913.857
+QLD,2023-24,"Bagasse, wood",renewable,1154.887
+QLD,2008-09,Biogas,renewable,116.4
+QLD,2009-10,Biogas,renewable,81.5
+QLD,2010-11,Biogas,renewable,97
+QLD,2011-12,Biogas,renewable,119.2
+QLD,2012-13,Biogas,renewable,121.4
+QLD,2013-14,Biogas,renewable,82.8
+QLD,2014-15,Biogas,renewable,91.1
+QLD,2015-16,Biogas,renewable,115.483
+QLD,2016-17,Biogas,renewable,118.269
+QLD,2017-18,Biogas,renewable,126.496
+QLD,2018-19,Biogas,renewable,175.075
+QLD,2019-20,Biogas,renewable,189.207
+QLD,2020-21,Biogas,renewable,198.522
+QLD,2021-22,Biogas,renewable,223.491
+QLD,2022-23,Biogas,renewable,256.128
+QLD,2023-24,Biogas,renewable,258.982
+QLD,2008-09,Wind,renewable,27.3
+QLD,2009-10,Wind,renewable,30.909
+QLD,2010-11,Wind,renewable,27.3
+QLD,2011-12,Wind,renewable,27.7
+QLD,2012-13,Wind,renewable,30.7
+QLD,2013-14,Wind,renewable,33.7
+QLD,2014-15,Wind,renewable,32.492
+QLD,2015-16,Wind,renewable,28.406
+QLD,2016-17,Wind,renewable,28.962
+QLD,2017-18,Wind,renewable,30.274
+QLD,2018-19,Wind,renewable,399.139
+QLD,2019-20,Wind,renewable,927.89
+QLD,2020-21,Wind,renewable,1826.044
+QLD,2021-22,Wind,renewable,1850.128
+QLD,2022-23,Wind,renewable,2124.839
+QLD,2023-24,Wind,renewable,2951.727
+QLD,2008-09,Hydro,renewable,820.2
+QLD,2009-10,Hydro,renewable,572.8
+QLD,2010-11,Hydro,renewable,965.6
+QLD,2011-12,Hydro,renewable,723.2
+QLD,2012-13,Hydro,renewable,684.1
+QLD,2013-14,Hydro,renewable,820.9
+QLD,2014-15,Hydro,renewable,649.1
+QLD,2015-16,Hydro,renewable,491.722
+QLD,2016-17,Hydro,renewable,672.206
+QLD,2017-18,Hydro,renewable,646.115
+QLD,2018-19,Hydro,renewable,1057.306
+QLD,2019-20,Hydro,renewable,634.622
+QLD,2020-21,Hydro,renewable,950.198
+QLD,2021-22,Hydro,renewable,1118.899
+QLD,2022-23,Hydro,renewable,1244.086
+QLD,2023-24,Hydro,renewable,1315.467
+QLD,2008-09,Large-scale solar PV,renewable,0
+QLD,2009-10,Large-scale solar PV,renewable,0
+QLD,2010-11,Large-scale solar PV,renewable,0
+QLD,2011-12,Large-scale solar PV,renewable,0
+QLD,2012-13,Large-scale solar PV,renewable,0
+QLD,2013-14,Large-scale solar PV,renewable,4.013
+QLD,2014-15,Large-scale solar PV,renewable,5.928
+QLD,2015-16,Large-scale solar PV,renewable,7.325
+QLD,2016-17,Large-scale solar PV,renewable,34.087
+QLD,2017-18,Large-scale solar PV,renewable,171.467
+QLD,2018-19,Large-scale solar PV,renewable,1491.654
+QLD,2019-20,Large-scale solar PV,renewable,3334.52
+QLD,2020-21,Large-scale solar PV,renewable,3395.78
+QLD,2021-22,Large-scale solar PV,renewable,3766.083
+QLD,2022-23,Large-scale solar PV,renewable,5413.036
+QLD,2023-24,Large-scale solar PV,renewable,6465.927
+QLD,2008-09,Small-scale solar PV,renewable,50.8
+QLD,2009-10,Small-scale solar PV,renewable,121.3
+QLD,2010-11,Small-scale solar PV,renewable,400.6
+QLD,2011-12,Small-scale solar PV,renewable,760.3
+QLD,2012-13,Small-scale solar PV,renewable,1310.2
+QLD,2013-14,Small-scale solar PV,renewable,1460.552
+QLD,2014-15,Small-scale solar PV,renewable,1788.021
+QLD,2015-16,Small-scale solar PV,renewable,2055.85
+QLD,2016-17,Small-scale solar PV,renewable,2335.873
+QLD,2017-18,Small-scale solar PV,renewable,2760.859
+QLD,2018-19,Small-scale solar PV,renewable,3330.242
+QLD,2019-20,Small-scale solar PV,renewable,4120.237
+QLD,2020-21,Small-scale solar PV,renewable,5160.929
+QLD,2021-22,Small-scale solar PV,renewable,6219.647
+QLD,2022-23,Small-scale solar PV,renewable,7263.341
+QLD,2023-24,Small-scale solar PV,renewable,8364.731
+QLD,2008-09,Geothermal,renewable,0.5
+QLD,2009-10,Geothermal,renewable,0.5
+QLD,2010-11,Geothermal,renewable,0.5
+QLD,2011-12,Geothermal,renewable,0.5
+QLD,2012-13,Geothermal,renewable,0.5
+QLD,2013-14,Geothermal,renewable,0.5
+QLD,2014-15,Geothermal,renewable,0.6
+QLD,2015-16,Geothermal,renewable,0.215
+QLD,2016-17,Geothermal,renewable,0.502
+QLD,2017-18,Geothermal,renewable,0
+QLD,2018-19,Geothermal,renewable,0
+QLD,2019-20,Geothermal,renewable,0
+QLD,2020-21,Geothermal,renewable,0
+QLD,2021-22,Geothermal,renewable,0
+QLD,2022-23,Geothermal,renewable,0
+QLD,2023-24,Geothermal,renewable,0
+QLD,2008-09,total renewable,total,2487.3
+QLD,2009-10,total renewable,total,2273.509
+QLD,2010-11,total renewable,total,2314.7
+QLD,2011-12,total renewable,total,2636.5
+QLD,2012-13,total renewable,total,3264.7
+QLD,2013-14,total renewable,total,3805.465
+QLD,2014-15,total renewable,total,4117.542
+QLD,2015-16,total renewable,total,4355.282
+QLD,2016-17,total renewable,total,4481.666
+QLD,2017-18,total renewable,total,4988.108
+QLD,2018-19,total renewable,total,7611.352
+QLD,2019-20,total renewable,total,10236.245
+QLD,2020-21,total renewable,total,12607.874
+QLD,2021-22,total renewable,total,14168.523
+QLD,2022-23,total renewable,total,17215.287
+QLD,2023-24,total renewable,total,20511.721
+WA,2008-09,Black coal,non-renewable,8738
+WA,2009-10,Black coal,non-renewable,9612.2
+WA,2010-11,Black coal,non-renewable,10352.3
+WA,2011-12,Black coal,non-renewable,10783.3
+WA,2012-13,Black coal,non-renewable,10276.9
+WA,2013-14,Black coal,non-renewable,10885.3
+WA,2014-15,Black coal,non-renewable,10523.4
+WA,2015-16,Black coal,non-renewable,10912.688
+WA,2016-17,Black coal,non-renewable,11226.156
+WA,2017-18,Black coal,non-renewable,11031.872
+WA,2018-19,Black coal,non-renewable,9953.96
+WA,2019-20,Black coal,non-renewable,9725.243
+WA,2020-21,Black coal,non-renewable,9212.413
+WA,2021-22,Black coal,non-renewable,9656.465
+WA,2022-23,Black coal,non-renewable,7340.324
+WA,2023-24,Black coal,non-renewable,7927.653
+WA,2008-09,Brown coal,non-renewable,0
+WA,2009-10,Brown coal,non-renewable,0
+WA,2010-11,Brown coal,non-renewable,0
+WA,2011-12,Brown coal,non-renewable,0
+WA,2012-13,Brown coal,non-renewable,0
+WA,2013-14,Brown coal,non-renewable,0
+WA,2014-15,Brown coal,non-renewable,0
+WA,2015-16,Brown coal,non-renewable,0
+WA,2016-17,Brown coal,non-renewable,0
+WA,2017-18,Brown coal,non-renewable,0
+WA,2018-19,Brown coal,non-renewable,0
+WA,2019-20,Brown coal,non-renewable,0
+WA,2020-21,Brown coal,non-renewable,0
+WA,2021-22,Brown coal,non-renewable,0
+WA,2022-23,Brown coal,non-renewable,0
+WA,2023-24,Brown coal,non-renewable,0
+WA,2008-09,Natural gas,non-renewable,14556.1
+WA,2009-10,Natural gas,non-renewable,16006.3
+WA,2010-11,Natural gas,non-renewable,18115.7
+WA,2011-12,Natural gas,non-renewable,17538.3
+WA,2012-13,Natural gas,non-renewable,17645.1
+WA,2013-14,Natural gas,non-renewable,20880
+WA,2014-15,Natural gas,non-renewable,20412.804
+WA,2015-16,Natural gas,non-renewable,21899.573
+WA,2016-17,Natural gas,non-renewable,22941.403
+WA,2017-18,Natural gas,non-renewable,24789.093
+WA,2018-19,Natural gas,non-renewable,25778.314
+WA,2019-20,Natural gas,non-renewable,26918.551
+WA,2020-21,Natural gas,non-renewable,25680.333
+WA,2021-22,Natural gas,non-renewable,25314.166
+WA,2022-23,Natural gas,non-renewable,27302.995
+WA,2023-24,Natural gas,non-renewable,27447.919
+WA,2008-09,Oil products,non-renewable,1464.4
+WA,2009-10,Oil products,non-renewable,1373.4
+WA,2010-11,Oil products,non-renewable,1413.8
+WA,2011-12,Oil products,non-renewable,1171.2
+WA,2012-13,Oil products,non-renewable,2045
+WA,2013-14,Oil products,non-renewable,2486.1
+WA,2014-15,Oil products,non-renewable,4223.5
+WA,2015-16,Oil products,non-renewable,3347.388
+WA,2016-17,Oil products,non-renewable,2883.482
+WA,2017-18,Oil products,non-renewable,2166.514
+WA,2018-19,Oil products,non-renewable,2417.855
+WA,2019-20,Oil products,non-renewable,2301.722
+WA,2020-21,Oil products,non-renewable,2458.258
+WA,2021-22,Oil products,non-renewable,2197.608
+WA,2022-23,Oil products,non-renewable,2197.932
+WA,2023-24,Oil products,non-renewable,2074.129
+WA,2008-09,Other,non-renewable,0
+WA,2009-10,Other,non-renewable,0
+WA,2010-11,Other,non-renewable,0
+WA,2011-12,Other,non-renewable,0
+WA,2012-13,Other,non-renewable,0
+WA,2013-14,Other,non-renewable,0
+WA,2014-15,Other,non-renewable,0
+WA,2015-16,Other,non-renewable,0
+WA,2016-17,Other,non-renewable,0
+WA,2017-18,Other,non-renewable,0
+WA,2018-19,Other,non-renewable,0
+WA,2019-20,Other,non-renewable,0
+WA,2020-21,Other,non-renewable,0
+WA,2021-22,Other,non-renewable,0
+WA,2022-23,Other,non-renewable,0
+WA,2023-24,Other,non-renewable,0
+WA,2008-09,total non-renewable,total,24758.5
+WA,2009-10,total non-renewable,total,26991.9
+WA,2010-11,total non-renewable,total,29881.8
+WA,2011-12,total non-renewable,total,29492.8
+WA,2012-13,total non-renewable,total,29967
+WA,2013-14,total non-renewable,total,34251.4
+WA,2014-15,total non-renewable,total,35159.704
+WA,2015-16,total non-renewable,total,36159.649
+WA,2016-17,total non-renewable,total,37051.041
+WA,2017-18,total non-renewable,total,37987.48
+WA,2018-19,total non-renewable,total,38150.129
+WA,2019-20,total non-renewable,total,38945.516
+WA,2020-21,total non-renewable,total,37351.004
+WA,2021-22,total non-renewable,total,37168.239
+WA,2022-23,total non-renewable,total,36841.251
+WA,2023-24,total non-renewable,total,37449.701
+WA,2008-09,"Bagasse, wood",renewable,0
+WA,2009-10,"Bagasse, wood",renewable,0
+WA,2010-11,"Bagasse, wood",renewable,0
+WA,2011-12,"Bagasse, wood",renewable,0
+WA,2012-13,"Bagasse, wood",renewable,0
+WA,2013-14,"Bagasse, wood",renewable,0
+WA,2014-15,"Bagasse, wood",renewable,0
+WA,2015-16,"Bagasse, wood",renewable,0
+WA,2016-17,"Bagasse, wood",renewable,0
+WA,2017-18,"Bagasse, wood",renewable,0
+WA,2018-19,"Bagasse, wood",renewable,0
+WA,2019-20,"Bagasse, wood",renewable,0
+WA,2020-21,"Bagasse, wood",renewable,0
+WA,2021-22,"Bagasse, wood",renewable,0
+WA,2022-23,"Bagasse, wood",renewable,0
+WA,2023-24,"Bagasse, wood",renewable,0
+WA,2008-09,Biogas,renewable,119.6
+WA,2009-10,Biogas,renewable,121.2
+WA,2010-11,Biogas,renewable,111.7
+WA,2011-12,Biogas,renewable,125.7
+WA,2012-13,Biogas,renewable,108.3
+WA,2013-14,Biogas,renewable,124
+WA,2014-15,Biogas,renewable,126.9
+WA,2015-16,Biogas,renewable,94.55
+WA,2016-17,Biogas,renewable,183.218
+WA,2017-18,Biogas,renewable,141.107
+WA,2018-19,Biogas,renewable,131.335
+WA,2019-20,Biogas,renewable,112.444
+WA,2020-21,Biogas,renewable,110.794
+WA,2021-22,Biogas,renewable,119.25
+WA,2022-23,Biogas,renewable,119.96
+WA,2023-24,Biogas,renewable,93.009
+WA,2008-09,Wind,renewable,675.1
+WA,2009-10,Wind,renewable,664
+WA,2010-11,Wind,renewable,719.3
+WA,2011-12,Wind,renewable,1278.7
+WA,2012-13,Wind,renewable,1300.2
+WA,2013-14,Wind,renewable,1578.8
+WA,2014-15,Wind,renewable,1643.2
+WA,2015-16,Wind,renewable,1476.458
+WA,2016-17,Wind,renewable,1616.678
+WA,2017-18,Wind,renewable,1586.985
+WA,2018-19,Wind,renewable,1851.152
+WA,2019-20,Wind,renewable,2122.54
+WA,2020-21,Wind,renewable,3140.458
+WA,2021-22,Wind,renewable,3676.727
+WA,2022-23,Wind,renewable,3378.649
+WA,2023-24,Wind,renewable,3579.953
+WA,2008-09,Hydro,renewable,0
+WA,2009-10,Hydro,renewable,0
+WA,2010-11,Hydro,renewable,0
+WA,2011-12,Hydro,renewable,0
+WA,2012-13,Hydro,renewable,221.3
+WA,2013-14,Hydro,renewable,205.4
+WA,2014-15,Hydro,renewable,206.1
+WA,2015-16,Hydro,renewable,217.028
+WA,2016-17,Hydro,renewable,212.622
+WA,2017-18,Hydro,renewable,220.787
+WA,2018-19,Hydro,renewable,217.009
+WA,2019-20,Hydro,renewable,205.525
+WA,2020-21,Hydro,renewable,127.962
+WA,2021-22,Hydro,renewable,76.475
+WA,2022-23,Hydro,renewable,71.316
+WA,2023-24,Hydro,renewable,72.328
+WA,2008-09,Large-scale solar PV,renewable,0
+WA,2009-10,Large-scale solar PV,renewable,0
+WA,2010-11,Large-scale solar PV,renewable,0
+WA,2011-12,Large-scale solar PV,renewable,0
+WA,2012-13,Large-scale solar PV,renewable,0
+WA,2013-14,Large-scale solar PV,renewable,24.137
+WA,2014-15,Large-scale solar PV,renewable,23.884
+WA,2015-16,Large-scale solar PV,renewable,28.349
+WA,2016-17,Large-scale solar PV,renewable,34.261
+WA,2017-18,Large-scale solar PV,renewable,45.608
+WA,2018-19,Large-scale solar PV,renewable,74.523
+WA,2019-20,Large-scale solar PV,renewable,174.72
+WA,2020-21,Large-scale solar PV,renewable,486.59
+WA,2021-22,Large-scale solar PV,renewable,745.489
+WA,2022-23,Large-scale solar PV,renewable,909.328
+WA,2023-24,Large-scale solar PV,renewable,901.458
+WA,2008-09,Small-scale solar PV,renewable,18.7
+WA,2009-10,Small-scale solar PV,renewable,57.5
+WA,2010-11,Small-scale solar PV,renewable,198.1
+WA,2011-12,Small-scale solar PV,renewable,331.4
+WA,2012-13,Small-scale solar PV,renewable,449.5
+WA,2013-14,Small-scale solar PV,renewable,495.849
+WA,2014-15,Small-scale solar PV,renewable,622.13
+WA,2015-16,Small-scale solar PV,renewable,760.766
+WA,2016-17,Small-scale solar PV,renewable,941.132
+WA,2017-18,Small-scale solar PV,renewable,1196.428
+WA,2018-19,Small-scale solar PV,renewable,1486.69
+WA,2019-20,Small-scale solar PV,renewable,1835.292
+WA,2020-21,Small-scale solar PV,renewable,2298.474
+WA,2021-22,Small-scale solar PV,renewable,2763.104
+WA,2022-23,Small-scale solar PV,renewable,3181.283
+WA,2023-24,Small-scale solar PV,renewable,3562.545
+WA,2008-09,Geothermal,renewable,0
+WA,2009-10,Geothermal,renewable,0
+WA,2010-11,Geothermal,renewable,0
+WA,2011-12,Geothermal,renewable,0
+WA,2012-13,Geothermal,renewable,0
+WA,2013-14,Geothermal,renewable,0
+WA,2014-15,Geothermal,renewable,0
+WA,2015-16,Geothermal,renewable,0
+WA,2016-17,Geothermal,renewable,0
+WA,2017-18,Geothermal,renewable,0
+WA,2018-19,Geothermal,renewable,0
+WA,2019-20,Geothermal,renewable,0
+WA,2020-21,Geothermal,renewable,0
+WA,2021-22,Geothermal,renewable,0
+WA,2022-23,Geothermal,renewable,0
+WA,2023-24,Geothermal,renewable,0
+WA,2008-09,total renewable,total,813.4
+WA,2009-10,total renewable,total,842.7
+WA,2010-11,total renewable,total,1029.1
+WA,2011-12,total renewable,total,1735.8
+WA,2012-13,total renewable,total,2079.3
+WA,2013-14,total renewable,total,2428.186
+WA,2014-15,total renewable,total,2622.214
+WA,2015-16,total renewable,total,2577.151
+WA,2016-17,total renewable,total,2987.911
+WA,2017-18,total renewable,total,3190.915
+WA,2018-19,total renewable,total,3760.71
+WA,2019-20,total renewable,total,4450.522
+WA,2020-21,total renewable,total,6164.277
+WA,2021-22,total renewable,total,7381.045
+WA,2022-23,total renewable,total,7660.536
+WA,2023-24,total renewable,total,8209.293
+SA,2008-09,Black coal,non-renewable,0
+SA,2009-10,Black coal,non-renewable,0
+SA,2010-11,Black coal,non-renewable,0
+SA,2011-12,Black coal,non-renewable,0
+SA,2012-13,Black coal,non-renewable,0
+SA,2013-14,Black coal,non-renewable,0
+SA,2014-15,Black coal,non-renewable,0
+SA,2015-16,Black coal,non-renewable,0
+SA,2016-17,Black coal,non-renewable,0
+SA,2017-18,Black coal,non-renewable,0
+SA,2018-19,Black coal,non-renewable,0
+SA,2019-20,Black coal,non-renewable,0
+SA,2020-21,Black coal,non-renewable,0
+SA,2021-22,Black coal,non-renewable,0
+SA,2022-23,Black coal,non-renewable,0
+SA,2023-24,Black coal,non-renewable,0
+SA,2008-09,Brown coal,non-renewable,4887.4
+SA,2009-10,Brown coal,non-renewable,4526.6
+SA,2010-11,Brown coal,non-renewable,4231.6
+SA,2011-12,Brown coal,non-renewable,3008
+SA,2012-13,Brown coal,non-renewable,2237.5
+SA,2013-14,Brown coal,non-renewable,2098.5
+SA,2014-15,Brown coal,non-renewable,2633.6
+SA,2015-16,Brown coal,non-renewable,2593.675
+SA,2016-17,Brown coal,non-renewable,0
+SA,2017-18,Brown coal,non-renewable,0
+SA,2018-19,Brown coal,non-renewable,0
+SA,2019-20,Brown coal,non-renewable,0
+SA,2020-21,Brown coal,non-renewable,0
+SA,2021-22,Brown coal,non-renewable,0
+SA,2022-23,Brown coal,non-renewable,0
+SA,2023-24,Brown coal,non-renewable,0
+SA,2008-09,Natural gas,non-renewable,7371.4
+SA,2009-10,Natural gas,non-renewable,6937
+SA,2010-11,Natural gas,non-renewable,6693.1
+SA,2011-12,Natural gas,non-renewable,6703.2
+SA,2012-13,Natural gas,non-renewable,7060.9
+SA,2013-14,Natural gas,non-renewable,5998.1
+SA,2014-15,Natural gas,non-renewable,5003.849
+SA,2015-16,Natural gas,non-renewable,4956.027
+SA,2016-17,Natural gas,non-renewable,6028.202
+SA,2017-18,Natural gas,non-renewable,7753.197
+SA,2018-19,Natural gas,non-renewable,7245.797
+SA,2019-20,Natural gas,non-renewable,6614.008
+SA,2020-21,Natural gas,non-renewable,5588.962
+SA,2021-22,Natural gas,non-renewable,4288.888
+SA,2022-23,Natural gas,non-renewable,3903.827
+SA,2023-24,Natural gas,non-renewable,3638.281
+SA,2008-09,Oil products,non-renewable,63.2
+SA,2009-10,Oil products,non-renewable,163.9
+SA,2010-11,Oil products,non-renewable,89.3
+SA,2011-12,Oil products,non-renewable,97.8
+SA,2012-13,Oil products,non-renewable,141
+SA,2013-14,Oil products,non-renewable,106.9
+SA,2014-15,Oil products,non-renewable,197.3
+SA,2015-16,Oil products,non-renewable,136.165
+SA,2016-17,Oil products,non-renewable,183.118
+SA,2017-18,Oil products,non-renewable,132.837
+SA,2018-19,Oil products,non-renewable,163.034
+SA,2019-20,Oil products,non-renewable,159.398
+SA,2020-21,Oil products,non-renewable,126.725
+SA,2021-22,Oil products,non-renewable,217.975
+SA,2022-23,Oil products,non-renewable,242.628
+SA,2023-24,Oil products,non-renewable,233.459
+SA,2008-09,Other,non-renewable,0
+SA,2009-10,Other,non-renewable,0
+SA,2010-11,Other,non-renewable,0
+SA,2011-12,Other,non-renewable,0
+SA,2012-13,Other,non-renewable,0
+SA,2013-14,Other,non-renewable,0
+SA,2014-15,Other,non-renewable,0
+SA,2015-16,Other,non-renewable,0
+SA,2016-17,Other,non-renewable,0
+SA,2017-18,Other,non-renewable,0
+SA,2018-19,Other,non-renewable,0
+SA,2019-20,Other,non-renewable,0
+SA,2020-21,Other,non-renewable,0
+SA,2021-22,Other,non-renewable,0
+SA,2022-23,Other,non-renewable,0
+SA,2023-24,Other,non-renewable,0
+SA,2008-09,total non-renewable,total,12322
+SA,2009-10,total non-renewable,total,11627.5
+SA,2010-11,total non-renewable,total,11014
+SA,2011-12,total non-renewable,total,9809
+SA,2012-13,total non-renewable,total,9439.4
+SA,2013-14,total non-renewable,total,8203.5
+SA,2014-15,total non-renewable,total,7834.749
+SA,2015-16,total non-renewable,total,7685.867
+SA,2016-17,total non-renewable,total,6211.32
+SA,2017-18,total non-renewable,total,7886.034
+SA,2018-19,total non-renewable,total,7408.831
+SA,2019-20,total non-renewable,total,6773.406
+SA,2020-21,total non-renewable,total,5715.687
+SA,2021-22,total non-renewable,total,4506.864
+SA,2022-23,total non-renewable,total,4146.455
+SA,2023-24,total non-renewable,total,3871.74
+SA,2008-09,"Bagasse, wood",renewable,0
+SA,2009-10,"Bagasse, wood",renewable,0
+SA,2010-11,"Bagasse, wood",renewable,0
+SA,2011-12,"Bagasse, wood",renewable,0
+SA,2012-13,"Bagasse, wood",renewable,0
+SA,2013-14,"Bagasse, wood",renewable,0
+SA,2014-15,"Bagasse, wood",renewable,0
+SA,2015-16,"Bagasse, wood",renewable,0
+SA,2016-17,"Bagasse, wood",renewable,0
+SA,2017-18,"Bagasse, wood",renewable,0
+SA,2018-19,"Bagasse, wood",renewable,0
+SA,2019-20,"Bagasse, wood",renewable,0
+SA,2020-21,"Bagasse, wood",renewable,0
+SA,2021-22,"Bagasse, wood",renewable,0
+SA,2022-23,"Bagasse, wood",renewable,0
+SA,2023-24,"Bagasse, wood",renewable,0
+SA,2008-09,Biogas,renewable,86.1
+SA,2009-10,Biogas,renewable,85.5
+SA,2010-11,Biogas,renewable,77.8
+SA,2011-12,Biogas,renewable,70.6
+SA,2012-13,Biogas,renewable,72.6
+SA,2013-14,Biogas,renewable,80.9
+SA,2014-15,Biogas,renewable,84.9
+SA,2015-16,Biogas,renewable,94.596
+SA,2016-17,Biogas,renewable,78.024
+SA,2017-18,Biogas,renewable,73.952
+SA,2018-19,Biogas,renewable,85.01
+SA,2019-20,Biogas,renewable,97.446
+SA,2020-21,Biogas,renewable,94.595
+SA,2021-22,Biogas,renewable,94.582
+SA,2022-23,Biogas,renewable,95.478
+SA,2023-24,Biogas,renewable,98.336
+SA,2008-09,Wind,renewable,2020.2
+SA,2009-10,Wind,renewable,2029
+SA,2010-11,Wind,renewable,2890.3
+SA,2011-12,Wind,renewable,3126.528
+SA,2012-13,Wind,renewable,3313.5
+SA,2013-14,Wind,renewable,4150.337
+SA,2014-15,Wind,renewable,4291.901
+SA,2015-16,Wind,renewable,4398.022
+SA,2016-17,Wind,renewable,4413.692
+SA,2017-18,Wind,renewable,5673.898
+SA,2018-19,Wind,renewable,5711.02
+SA,2019-20,Wind,renewable,5812.912
+SA,2020-21,Wind,renewable,5867.068
+SA,2021-22,Wind,renewable,6254.756
+SA,2022-23,Wind,renewable,6799.644
+SA,2023-24,Wind,renewable,6103.711
+SA,2008-09,Hydro,renewable,4.1
+SA,2009-10,Hydro,renewable,4.2
+SA,2010-11,Hydro,renewable,4.1
+SA,2011-12,Hydro,renewable,4.4
+SA,2012-13,Hydro,renewable,5.9
+SA,2013-14,Hydro,renewable,5.9
+SA,2014-15,Hydro,renewable,10.8
+SA,2015-16,Hydro,renewable,6.481
+SA,2016-17,Hydro,renewable,3.451
+SA,2017-18,Hydro,renewable,6.352
+SA,2018-19,Hydro,renewable,8.803
+SA,2019-20,Hydro,renewable,10.264
+SA,2020-21,Hydro,renewable,3.455
+SA,2021-22,Hydro,renewable,2.496
+SA,2022-23,Hydro,renewable,1.548
+SA,2023-24,Hydro,renewable,1.376
+SA,2008-09,Large-scale solar PV,renewable,0
+SA,2009-10,Large-scale solar PV,renewable,0
+SA,2010-11,Large-scale solar PV,renewable,0
+SA,2011-12,Large-scale solar PV,renewable,0
+SA,2012-13,Large-scale solar PV,renewable,0
+SA,2013-14,Large-scale solar PV,renewable,1.385
+SA,2014-15,Large-scale solar PV,renewable,1.722
+SA,2015-16,Large-scale solar PV,renewable,2
+SA,2016-17,Large-scale solar PV,renewable,3.925
+SA,2017-18,Large-scale solar PV,renewable,20.045
+SA,2018-19,Large-scale solar PV,renewable,321.329
+SA,2019-20,Large-scale solar PV,renewable,627.836
+SA,2020-21,Large-scale solar PV,renewable,884.33
+SA,2021-22,Large-scale solar PV,renewable,1096.66
+SA,2022-23,Large-scale solar PV,renewable,1108.532
+SA,2023-24,Large-scale solar PV,renewable,1264.722
+SA,2008-09,Small-scale solar PV,renewable,23.4
+SA,2009-10,Small-scale solar PV,renewable,50.7
+SA,2010-11,Small-scale solar PV,renewable,182.8
+SA,2011-12,Small-scale solar PV,renewable,398.1
+SA,2012-13,Small-scale solar PV,renewable,558.6
+SA,2013-14,Small-scale solar PV,renewable,677.943
+SA,2014-15,Small-scale solar PV,renewable,802.239
+SA,2015-16,Small-scale solar PV,renewable,895.45
+SA,2016-17,Small-scale solar PV,renewable,1000.833
+SA,2017-18,Small-scale solar PV,renewable,1163.369
+SA,2018-19,Small-scale solar PV,renewable,1402.512
+SA,2019-20,Small-scale solar PV,renewable,1717.581
+SA,2020-21,Small-scale solar PV,renewable,2128.182
+SA,2021-22,Small-scale solar PV,renewable,2505.006
+SA,2022-23,Small-scale solar PV,renewable,2889.884
+SA,2023-24,Small-scale solar PV,renewable,3254.117
+SA,2008-09,Geothermal,renewable,0
+SA,2009-10,Geothermal,renewable,0
+SA,2010-11,Geothermal,renewable,0
+SA,2011-12,Geothermal,renewable,0
+SA,2012-13,Geothermal,renewable,0
+SA,2013-14,Geothermal,renewable,0
+SA,2014-15,Geothermal,renewable,0
+SA,2015-16,Geothermal,renewable,0
+SA,2016-17,Geothermal,renewable,0
+SA,2017-18,Geothermal,renewable,0
+SA,2018-19,Geothermal,renewable,0
+SA,2019-20,Geothermal,renewable,0
+SA,2020-21,Geothermal,renewable,0
+SA,2021-22,Geothermal,renewable,0
+SA,2022-23,Geothermal,renewable,0
+SA,2023-24,Geothermal,renewable,0
+SA,2008-09,total renewable,total,2133.8
+SA,2009-10,total renewable,total,2169.4
+SA,2010-11,total renewable,total,3155
+SA,2011-12,total renewable,total,3599.628
+SA,2012-13,total renewable,total,3950.6
+SA,2013-14,total renewable,total,4916.465
+SA,2014-15,total renewable,total,5191.562
+SA,2015-16,total renewable,total,5396.549
+SA,2016-17,total renewable,total,5499.925
+SA,2017-18,total renewable,total,6937.615
+SA,2018-19,total renewable,total,7528.675
+SA,2019-20,total renewable,total,8266.039
+SA,2020-21,total renewable,total,8977.631
+SA,2021-22,total renewable,total,9953.499
+SA,2022-23,total renewable,total,10895.087
+SA,2023-24,total renewable,total,10722.261
+TAS,2008-09,Black coal,non-renewable,0
+TAS,2009-10,Black coal,non-renewable,0
+TAS,2010-11,Black coal,non-renewable,0
+TAS,2011-12,Black coal,non-renewable,0
+TAS,2012-13,Black coal,non-renewable,0
+TAS,2013-14,Black coal,non-renewable,0
+TAS,2014-15,Black coal,non-renewable,0
+TAS,2015-16,Black coal,non-renewable,0
+TAS,2016-17,Black coal,non-renewable,0
+TAS,2017-18,Black coal,non-renewable,0
+TAS,2018-19,Black coal,non-renewable,0
+TAS,2019-20,Black coal,non-renewable,0
+TAS,2020-21,Black coal,non-renewable,0
+TAS,2021-22,Black coal,non-renewable,0
+TAS,2022-23,Black coal,non-renewable,0
+TAS,2023-24,Black coal,non-renewable,0
+TAS,2008-09,Brown coal,non-renewable,0
+TAS,2009-10,Brown coal,non-renewable,0
+TAS,2010-11,Brown coal,non-renewable,0
+TAS,2011-12,Brown coal,non-renewable,0
+TAS,2012-13,Brown coal,non-renewable,0
+TAS,2013-14,Brown coal,non-renewable,0
+TAS,2014-15,Brown coal,non-renewable,0
+TAS,2015-16,Brown coal,non-renewable,0
+TAS,2016-17,Brown coal,non-renewable,0
+TAS,2017-18,Brown coal,non-renewable,0
+TAS,2018-19,Brown coal,non-renewable,0
+TAS,2019-20,Brown coal,non-renewable,0
+TAS,2020-21,Brown coal,non-renewable,0
+TAS,2021-22,Brown coal,non-renewable,0
+TAS,2022-23,Brown coal,non-renewable,0
+TAS,2023-24,Brown coal,non-renewable,0
+TAS,2008-09,Natural gas,non-renewable,705.3
+TAS,2009-10,Natural gas,non-renewable,1109.8
+TAS,2010-11,Natural gas,non-renewable,1506
+TAS,2011-12,Natural gas,non-renewable,1562.7
+TAS,2012-13,Natural gas,non-renewable,1752.5
+TAS,2013-14,Natural gas,non-renewable,985
+TAS,2014-15,Natural gas,non-renewable,131.042
+TAS,2015-16,Natural gas,non-renewable,858.027
+TAS,2016-17,Natural gas,non-renewable,897.553
+TAS,2017-18,Natural gas,non-renewable,980.373
+TAS,2018-19,Natural gas,non-renewable,619.786
+TAS,2019-20,Natural gas,non-renewable,196.631
+TAS,2020-21,Natural gas,non-renewable,186.131
+TAS,2021-22,Natural gas,non-renewable,174.762
+TAS,2022-23,Natural gas,non-renewable,193.567
+TAS,2023-24,Natural gas,non-renewable,294.704
+TAS,2008-09,Oil products,non-renewable,64.5
+TAS,2009-10,Oil products,non-renewable,73.9
+TAS,2010-11,Oil products,non-renewable,94.9
+TAS,2011-12,Oil products,non-renewable,60.5
+TAS,2012-13,Oil products,non-renewable,12.1
+TAS,2013-14,Oil products,non-renewable,19.7
+TAS,2014-15,Oil products,non-renewable,18.9
+TAS,2015-16,Oil products,non-renewable,90.255
+TAS,2016-17,Oil products,non-renewable,21.817
+TAS,2017-18,Oil products,non-renewable,24.3
+TAS,2018-19,Oil products,non-renewable,19.27
+TAS,2019-20,Oil products,non-renewable,20.682
+TAS,2020-21,Oil products,non-renewable,19.835
+TAS,2021-22,Oil products,non-renewable,10.676
+TAS,2022-23,Oil products,non-renewable,12.669
+TAS,2023-24,Oil products,non-renewable,13.115
+TAS,2008-09,Other,non-renewable,0
+TAS,2009-10,Other,non-renewable,0
+TAS,2010-11,Other,non-renewable,0
+TAS,2011-12,Other,non-renewable,0
+TAS,2012-13,Other,non-renewable,0
+TAS,2013-14,Other,non-renewable,0
+TAS,2014-15,Other,non-renewable,0
+TAS,2015-16,Other,non-renewable,0
+TAS,2016-17,Other,non-renewable,0
+TAS,2017-18,Other,non-renewable,0
+TAS,2018-19,Other,non-renewable,0
+TAS,2019-20,Other,non-renewable,0
+TAS,2020-21,Other,non-renewable,0
+TAS,2021-22,Other,non-renewable,0
+TAS,2022-23,Other,non-renewable,0
+TAS,2023-24,Other,non-renewable,0
+TAS,2008-09,total non-renewable,total,769.8
+TAS,2009-10,total non-renewable,total,1183.7
+TAS,2010-11,total non-renewable,total,1600.9
+TAS,2011-12,total non-renewable,total,1623.2
+TAS,2012-13,total non-renewable,total,1764.6
+TAS,2013-14,total non-renewable,total,1004.7
+TAS,2014-15,total non-renewable,total,149.942
+TAS,2015-16,total non-renewable,total,948.282
+TAS,2016-17,total non-renewable,total,919.37
+TAS,2017-18,total non-renewable,total,1004.673
+TAS,2018-19,total non-renewable,total,639.056
+TAS,2019-20,total non-renewable,total,217.312
+TAS,2020-21,total non-renewable,total,205.966
+TAS,2021-22,total non-renewable,total,185.438
+TAS,2022-23,total non-renewable,total,206.236
+TAS,2023-24,total non-renewable,total,307.819
+TAS,2008-09,"Bagasse, wood",renewable,0
+TAS,2009-10,"Bagasse, wood",renewable,0
+TAS,2010-11,"Bagasse, wood",renewable,0
+TAS,2011-12,"Bagasse, wood",renewable,0
+TAS,2012-13,"Bagasse, wood",renewable,0
+TAS,2013-14,"Bagasse, wood",renewable,0
+TAS,2014-15,"Bagasse, wood",renewable,0
+TAS,2015-16,"Bagasse, wood",renewable,0
+TAS,2016-17,"Bagasse, wood",renewable,0
+TAS,2017-18,"Bagasse, wood",renewable,0
+TAS,2018-19,"Bagasse, wood",renewable,0
+TAS,2019-20,"Bagasse, wood",renewable,0
+TAS,2020-21,"Bagasse, wood",renewable,0
+TAS,2021-22,"Bagasse, wood",renewable,0
+TAS,2022-23,"Bagasse, wood",renewable,0
+TAS,2023-24,"Bagasse, wood",renewable,0
+TAS,2008-09,Biogas,renewable,25.1
+TAS,2009-10,Biogas,renewable,29
+TAS,2010-11,Biogas,renewable,29.9
+TAS,2011-12,Biogas,renewable,33.3
+TAS,2012-13,Biogas,renewable,33
+TAS,2013-14,Biogas,renewable,30.6
+TAS,2014-15,Biogas,renewable,34.6
+TAS,2015-16,Biogas,renewable,27.252
+TAS,2016-17,Biogas,renewable,24.517
+TAS,2017-18,Biogas,renewable,24.062
+TAS,2018-19,Biogas,renewable,27.004
+TAS,2019-20,Biogas,renewable,30.883
+TAS,2020-21,Biogas,renewable,31.774
+TAS,2021-22,Biogas,renewable,32.976
+TAS,2022-23,Biogas,renewable,31.817
+TAS,2023-24,Biogas,renewable,37.148
+TAS,2008-09,Wind,renewable,486.897
+TAS,2009-10,Wind,renewable,489.3
+TAS,2010-11,Wind,renewable,483.5
+TAS,2011-12,Wind,renewable,423.1
+TAS,2012-13,Wind,renewable,477.5
+TAS,2013-14,Wind,renewable,818
+TAS,2014-15,Wind,renewable,1055.1
+TAS,2015-16,Wind,renewable,1055.996
+TAS,2016-17,Wind,renewable,1104.776
+TAS,2017-18,Wind,renewable,1147.79
+TAS,2018-19,Wind,renewable,1147.203
+TAS,2019-20,Wind,renewable,1362.035
+TAS,2020-21,Wind,renewable,1815.259
+TAS,2021-22,Wind,renewable,1789.181
+TAS,2022-23,Wind,renewable,1805.276
+TAS,2023-24,Wind,renewable,1811.673
+TAS,2008-09,Hydro,renewable,7313.6
+TAS,2009-10,Hydro,renewable,8307.2
+TAS,2010-11,Hydro,renewable,9451.5
+TAS,2011-12,Hydro,renewable,8515.5
+TAS,2012-13,Hydro,renewable,10766.4
+TAS,2013-14,Hydro,renewable,12072.6
+TAS,2014-15,Hydro,renewable,8294.4
+TAS,2015-16,Hydro,renewable,8204.296
+TAS,2016-17,Hydro,renewable,8432.701
+TAS,2017-18,Hydro,renewable,9428.909
+TAS,2018-19,Hydro,renewable,9821.078
+TAS,2019-20,Hydro,renewable,9878.333
+TAS,2020-21,Hydro,renewable,8301.873
+TAS,2021-22,Hydro,renewable,9709.625
+TAS,2022-23,Hydro,renewable,8359.825
+TAS,2023-24,Hydro,renewable,7624.35
+TAS,2008-09,Large-scale solar PV,renewable,0
+TAS,2009-10,Large-scale solar PV,renewable,0
+TAS,2010-11,Large-scale solar PV,renewable,0
+TAS,2011-12,Large-scale solar PV,renewable,0
+TAS,2012-13,Large-scale solar PV,renewable,0
+TAS,2013-14,Large-scale solar PV,renewable,0.04
+TAS,2014-15,Large-scale solar PV,renewable,0.04
+TAS,2015-16,Large-scale solar PV,renewable,0.039
+TAS,2016-17,Large-scale solar PV,renewable,0.296
+TAS,2017-18,Large-scale solar PV,renewable,0.556
+TAS,2018-19,Large-scale solar PV,renewable,1.495
+TAS,2019-20,Large-scale solar PV,renewable,2.754
+TAS,2020-21,Large-scale solar PV,renewable,3.03
+TAS,2021-22,Large-scale solar PV,renewable,2.973
+TAS,2022-23,Large-scale solar PV,renewable,3.988
+TAS,2023-24,Large-scale solar PV,renewable,3.732
+TAS,2008-09,Small-scale solar PV,renewable,1.8
+TAS,2009-10,Small-scale solar PV,renewable,5.6
+TAS,2010-11,Small-scale solar PV,renewable,11.6
+TAS,2011-12,Small-scale solar PV,renewable,22.7
+TAS,2012-13,Small-scale solar PV,renewable,53.3
+TAS,2013-14,Small-scale solar PV,renewable,73.516
+TAS,2014-15,Small-scale solar PV,renewable,96.806
+TAS,2015-16,Small-scale solar PV,renewable,108.462
+TAS,2016-17,Small-scale solar PV,renewable,121.61
+TAS,2017-18,Small-scale solar PV,renewable,138.931
+TAS,2018-19,Small-scale solar PV,renewable,161.79
+TAS,2019-20,Small-scale solar PV,renewable,187.173
+TAS,2020-21,Small-scale solar PV,renewable,218.629
+TAS,2021-22,Small-scale solar PV,renewable,255.501
+TAS,2022-23,Small-scale solar PV,renewable,300.033
+TAS,2023-24,Small-scale solar PV,renewable,357.187
+TAS,2008-09,Geothermal,renewable,0
+TAS,2009-10,Geothermal,renewable,0
+TAS,2010-11,Geothermal,renewable,0
+TAS,2011-12,Geothermal,renewable,0
+TAS,2012-13,Geothermal,renewable,0
+TAS,2013-14,Geothermal,renewable,0
+TAS,2014-15,Geothermal,renewable,0
+TAS,2015-16,Geothermal,renewable,0
+TAS,2016-17,Geothermal,renewable,0
+TAS,2017-18,Geothermal,renewable,0
+TAS,2018-19,Geothermal,renewable,0
+TAS,2019-20,Geothermal,renewable,0
+TAS,2020-21,Geothermal,renewable,0
+TAS,2021-22,Geothermal,renewable,0
+TAS,2022-23,Geothermal,renewable,0
+TAS,2023-24,Geothermal,renewable,0
+TAS,2008-09,total renewable,total,7827.397
+TAS,2009-10,total renewable,total,8831.1
+TAS,2010-11,total renewable,total,9976.5
+TAS,2011-12,total renewable,total,8994.6
+TAS,2012-13,total renewable,total,11330.2
+TAS,2013-14,total renewable,total,12994.756
+TAS,2014-15,total renewable,total,9480.946
+TAS,2015-16,total renewable,total,9396.045
+TAS,2016-17,total renewable,total,9683.9
+TAS,2017-18,total renewable,total,10740.248
+TAS,2018-19,total renewable,total,11158.569
+TAS,2019-20,total renewable,total,11461.179
+TAS,2020-21,total renewable,total,10370.566
+TAS,2021-22,total renewable,total,11790.255
+TAS,2022-23,total renewable,total,10500.939
+TAS,2023-24,total renewable,total,9834.09
+NT,2008-09,Black coal,non-renewable,0
+NT,2009-10,Black coal,non-renewable,0
+NT,2010-11,Black coal,non-renewable,0
+NT,2011-12,Black coal,non-renewable,0
+NT,2012-13,Black coal,non-renewable,0
+NT,2013-14,Black coal,non-renewable,0
+NT,2014-15,Black coal,non-renewable,0
+NT,2015-16,Black coal,non-renewable,0
+NT,2016-17,Black coal,non-renewable,0
+NT,2017-18,Black coal,non-renewable,0
+NT,2018-19,Black coal,non-renewable,0
+NT,2019-20,Black coal,non-renewable,0
+NT,2020-21,Black coal,non-renewable,0
+NT,2021-22,Black coal,non-renewable,0
+NT,2022-23,Black coal,non-renewable,0
+NT,2023-24,Black coal,non-renewable,0
+NT,2008-09,Brown coal,non-renewable,0
+NT,2009-10,Brown coal,non-renewable,0
+NT,2010-11,Brown coal,non-renewable,0
+NT,2011-12,Brown coal,non-renewable,0
+NT,2012-13,Brown coal,non-renewable,0
+NT,2013-14,Brown coal,non-renewable,0
+NT,2014-15,Brown coal,non-renewable,0
+NT,2015-16,Brown coal,non-renewable,0
+NT,2016-17,Brown coal,non-renewable,0
+NT,2017-18,Brown coal,non-renewable,0
+NT,2018-19,Brown coal,non-renewable,0
+NT,2019-20,Brown coal,non-renewable,0
+NT,2020-21,Brown coal,non-renewable,0
+NT,2021-22,Brown coal,non-renewable,0
+NT,2022-23,Brown coal,non-renewable,0
+NT,2023-24,Brown coal,non-renewable,0
+NT,2008-09,Natural gas,non-renewable,1873.4
+NT,2009-10,Natural gas,non-renewable,2134.9
+NT,2010-11,Natural gas,non-renewable,2054.1
+NT,2011-12,Natural gas,non-renewable,2109.3
+NT,2012-13,Natural gas,non-renewable,2269
+NT,2013-14,Natural gas,non-renewable,2308.9
+NT,2014-15,Natural gas,non-renewable,2201.4
+NT,2015-16,Natural gas,non-renewable,2484.714
+NT,2016-17,Natural gas,non-renewable,2366.493
+NT,2017-18,Natural gas,non-renewable,2437.758
+NT,2018-19,Natural gas,non-renewable,3503.228
+NT,2019-20,Natural gas,non-renewable,4285.007
+NT,2020-21,Natural gas,non-renewable,4142.973
+NT,2021-22,Natural gas,non-renewable,4561.489
+NT,2022-23,Natural gas,non-renewable,4160.223
+NT,2023-24,Natural gas,non-renewable,4509.076
+NT,2008-09,Oil products,non-renewable,1039.3
+NT,2009-10,Oil products,non-renewable,1118.2
+NT,2010-11,Oil products,non-renewable,1022.5
+NT,2011-12,Oil products,non-renewable,1020.9
+NT,2012-13,Oil products,non-renewable,1022
+NT,2013-14,Oil products,non-renewable,1123.6
+NT,2014-15,Oil products,non-renewable,751.3
+NT,2015-16,Oil products,non-renewable,522.63
+NT,2016-17,Oil products,non-renewable,537.402
+NT,2017-18,Oil products,non-renewable,947.176
+NT,2018-19,Oil products,non-renewable,794.978
+NT,2019-20,Oil products,non-renewable,504.397
+NT,2020-21,Oil products,non-renewable,502.491
+NT,2021-22,Oil products,non-renewable,461.921
+NT,2022-23,Oil products,non-renewable,527.223
+NT,2023-24,Oil products,non-renewable,504.985
+NT,2008-09,Other,non-renewable,0
+NT,2009-10,Other,non-renewable,0
+NT,2010-11,Other,non-renewable,0
+NT,2011-12,Other,non-renewable,0
+NT,2012-13,Other,non-renewable,0
+NT,2013-14,Other,non-renewable,0
+NT,2014-15,Other,non-renewable,0
+NT,2015-16,Other,non-renewable,0
+NT,2016-17,Other,non-renewable,0
+NT,2017-18,Other,non-renewable,0
+NT,2018-19,Other,non-renewable,0
+NT,2019-20,Other,non-renewable,0
+NT,2020-21,Other,non-renewable,0
+NT,2021-22,Other,non-renewable,0
+NT,2022-23,Other,non-renewable,0
+NT,2023-24,Other,non-renewable,0
+NT,2008-09,total non-renewable,total,2912.7
+NT,2009-10,total non-renewable,total,3253.1
+NT,2010-11,total non-renewable,total,3076.6
+NT,2011-12,total non-renewable,total,3130.2
+NT,2012-13,total non-renewable,total,3291
+NT,2013-14,total non-renewable,total,3432.5
+NT,2014-15,total non-renewable,total,2952.7
+NT,2015-16,total non-renewable,total,3007.344
+NT,2016-17,total non-renewable,total,2903.895
+NT,2017-18,total non-renewable,total,3384.935
+NT,2018-19,total non-renewable,total,4298.205
+NT,2019-20,total non-renewable,total,4789.404
+NT,2020-21,total non-renewable,total,4645.465
+NT,2021-22,total non-renewable,total,5023.411
+NT,2022-23,total non-renewable,total,4687.446
+NT,2023-24,total non-renewable,total,5014.061
+NT,2008-09,"Bagasse, wood",renewable,0
+NT,2009-10,"Bagasse, wood",renewable,0
+NT,2010-11,"Bagasse, wood",renewable,0
+NT,2011-12,"Bagasse, wood",renewable,0
+NT,2012-13,"Bagasse, wood",renewable,0
+NT,2013-14,"Bagasse, wood",renewable,0
+NT,2014-15,"Bagasse, wood",renewable,0
+NT,2015-16,"Bagasse, wood",renewable,0
+NT,2016-17,"Bagasse, wood",renewable,0
+NT,2017-18,"Bagasse, wood",renewable,0
+NT,2018-19,"Bagasse, wood",renewable,0
+NT,2019-20,"Bagasse, wood",renewable,0
+NT,2020-21,"Bagasse, wood",renewable,0
+NT,2021-22,"Bagasse, wood",renewable,0
+NT,2022-23,"Bagasse, wood",renewable,0
+NT,2023-24,"Bagasse, wood",renewable,0
+NT,2008-09,Biogas,renewable,9.2
+NT,2009-10,Biogas,renewable,9.2
+NT,2010-11,Biogas,renewable,8.7
+NT,2011-12,Biogas,renewable,7.7
+NT,2012-13,Biogas,renewable,6.5
+NT,2013-14,Biogas,renewable,8.9
+NT,2014-15,Biogas,renewable,9
+NT,2015-16,Biogas,renewable,7.688
+NT,2016-17,Biogas,renewable,7.612
+NT,2017-18,Biogas,renewable,8.608
+NT,2018-19,Biogas,renewable,8.785
+NT,2019-20,Biogas,renewable,8.722
+NT,2020-21,Biogas,renewable,7.98
+NT,2021-22,Biogas,renewable,5.976
+NT,2022-23,Biogas,renewable,8.988
+NT,2023-24,Biogas,renewable,9.178
+NT,2008-09,Wind,renewable,0
+NT,2009-10,Wind,renewable,0
+NT,2010-11,Wind,renewable,0
+NT,2011-12,Wind,renewable,0
+NT,2012-13,Wind,renewable,0
+NT,2013-14,Wind,renewable,0
+NT,2014-15,Wind,renewable,0
+NT,2015-16,Wind,renewable,0
+NT,2016-17,Wind,renewable,0
+NT,2017-18,Wind,renewable,0
+NT,2018-19,Wind,renewable,0
+NT,2019-20,Wind,renewable,0
+NT,2020-21,Wind,renewable,0
+NT,2021-22,Wind,renewable,0
+NT,2022-23,Wind,renewable,0
+NT,2023-24,Wind,renewable,0
+NT,2008-09,Hydro,renewable,0
+NT,2009-10,Hydro,renewable,0
+NT,2010-11,Hydro,renewable,0
+NT,2011-12,Hydro,renewable,0
+NT,2012-13,Hydro,renewable,0
+NT,2013-14,Hydro,renewable,0
+NT,2014-15,Hydro,renewable,0
+NT,2015-16,Hydro,renewable,0
+NT,2016-17,Hydro,renewable,0
+NT,2017-18,Hydro,renewable,0
+NT,2018-19,Hydro,renewable,0
+NT,2019-20,Hydro,renewable,0
+NT,2020-21,Hydro,renewable,0
+NT,2021-22,Hydro,renewable,0
+NT,2022-23,Hydro,renewable,0
+NT,2023-24,Hydro,renewable,0
+NT,2008-09,Large-scale solar PV,renewable,0
+NT,2009-10,Large-scale solar PV,renewable,0
+NT,2010-11,Large-scale solar PV,renewable,0
+NT,2011-12,Large-scale solar PV,renewable,0
+NT,2012-13,Large-scale solar PV,renewable,0
+NT,2013-14,Large-scale solar PV,renewable,5.058
+NT,2014-15,Large-scale solar PV,renewable,6.405
+NT,2015-16,Large-scale solar PV,renewable,8.515
+NT,2016-17,Large-scale solar PV,renewable,18.468
+NT,2017-18,Large-scale solar PV,renewable,30.504
+NT,2018-19,Large-scale solar PV,renewable,32.652
+NT,2019-20,Large-scale solar PV,renewable,39.249
+NT,2020-21,Large-scale solar PV,renewable,44.607
+NT,2021-22,Large-scale solar PV,renewable,46.126
+NT,2022-23,Large-scale solar PV,renewable,36.846
+NT,2023-24,Large-scale solar PV,renewable,62.874
+NT,2008-09,Small-scale solar PV,renewable,0.5
+NT,2009-10,Small-scale solar PV,renewable,4.3
+NT,2010-11,Small-scale solar PV,renewable,5.6
+NT,2011-12,Small-scale solar PV,renewable,9.7
+NT,2012-13,Small-scale solar PV,renewable,16.9
+NT,2013-14,Small-scale solar PV,renewable,19.357
+NT,2014-15,Small-scale solar PV,renewable,28.899
+NT,2015-16,Small-scale solar PV,renewable,42.448
+NT,2016-17,Small-scale solar PV,renewable,61.251
+NT,2017-18,Small-scale solar PV,renewable,85.773
+NT,2018-19,Small-scale solar PV,renewable,117.882
+NT,2019-20,Small-scale solar PV,renewable,162.212
+NT,2020-21,Small-scale solar PV,renewable,203.556
+NT,2021-22,Small-scale solar PV,renewable,230.893
+NT,2022-23,Small-scale solar PV,renewable,261.624
+NT,2023-24,Small-scale solar PV,renewable,286.415
+NT,2008-09,Geothermal,renewable,0
+NT,2009-10,Geothermal,renewable,0
+NT,2010-11,Geothermal,renewable,0
+NT,2011-12,Geothermal,renewable,0
+NT,2012-13,Geothermal,renewable,0
+NT,2013-14,Geothermal,renewable,0
+NT,2014-15,Geothermal,renewable,0
+NT,2015-16,Geothermal,renewable,0
+NT,2016-17,Geothermal,renewable,0
+NT,2017-18,Geothermal,renewable,0
+NT,2018-19,Geothermal,renewable,0
+NT,2019-20,Geothermal,renewable,0
+NT,2020-21,Geothermal,renewable,0
+NT,2021-22,Geothermal,renewable,0
+NT,2022-23,Geothermal,renewable,0
+NT,2023-24,Geothermal,renewable,0
+NT,2008-09,total renewable,total,9.7
+NT,2009-10,total renewable,total,13.5
+NT,2010-11,total renewable,total,14.3
+NT,2011-12,total renewable,total,17.4
+NT,2012-13,total renewable,total,23.4
+NT,2013-14,total renewable,total,33.315
+NT,2014-15,total renewable,total,44.304
+NT,2015-16,total renewable,total,58.651
+NT,2016-17,total renewable,total,87.331
+NT,2017-18,total renewable,total,124.884
+NT,2018-19,total renewable,total,159.319
+NT,2019-20,total renewable,total,210.183
+NT,2020-21,total renewable,total,256.144
+NT,2021-22,total renewable,total,282.994
+NT,2022-23,total renewable,total,307.457
+NT,2023-24,total renewable,total,358.467
